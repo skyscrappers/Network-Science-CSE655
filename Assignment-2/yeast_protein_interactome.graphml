@@ -1,0 +1,3092 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="YLR291C" />
+    <node id="YNL229C" />
+    <node id="YCR086W" />
+    <node id="YPR062W" />
+    <node id="YJL085W" />
+    <node id="YBR057C" />
+    <node id="YLR227C" />
+    <node id="YDR208W" />
+    <node id="YER106W" />
+    <node id="YLR010C" />
+    <node id="YDR082W" />
+    <node id="YDR013W" />
+    <node id="YPR135W" />
+    <node id="YGR267C" />
+    <node id="YOR111W" />
+    <node id="YLR377C" />
+    <node id="YHR112C" />
+    <node id="YJR057W" />
+    <node id="YCL028W" />
+    <node id="YDR439W" />
+    <node id="YFR008W" />
+    <node id="YMR029C" />
+    <node id="YJL199C" />
+    <node id="YDR373W" />
+    <node id="YGL153W" />
+    <node id="YNR012W" />
+    <node id="YGL068W" />
+    <node id="YDR361C" />
+    <node id="YMR077C" />
+    <node id="YJR102C" />
+    <node id="YGR024C" />
+    <node id="YNL204C" />
+    <node id="YDR100W" />
+    <node id="YJL137C" />
+    <node id="YKR010C" />
+    <node id="YPR046W" />
+    <node id="YJR135C" />
+    <node id="YLR386W" />
+    <node id="YLL057C" />
+    <node id="YMR001C" />
+    <node id="YJL187C" />
+    <node id="YDR300C" />
+    <node id="YHR022C" />
+    <node id="YCR060W" />
+    <node id="YHR034C" />
+    <node id="YKR068C" />
+    <node id="YOR115C" />
+    <node id="YMR004W" />
+    <node id="YBR166C" />
+    <node id="YPL135W" />
+    <node id="YLR257W" />
+    <node id="YLR345W" />
+    <node id="YBR244W" />
+    <node id="YOL129W" />
+    <node id="YAR027W" />
+    <node id="YLR424W" />
+    <node id="YKR022C" />
+    <node id="YER023W" />
+    <node id="YNL024C" />
+    <node id="YDR386W" />
+    <node id="YDR284C" />
+    <node id="YMR312W" />
+    <node id="YHR187W" />
+    <node id="YKL218C" />
+    <node id="YBR176W" />
+    <node id="YER081W" />
+    <node id="YPR110C" />
+    <node id="YNL113W" />
+    <node id="YNL311C" />
+    <node id="YOL034W" />
+    <node id="YPL218W" />
+    <node id="YAL032C" />
+    <node id="YBR072W" />
+    <node id="YCL066W" />
+    <node id="YPL049C" />
+    <node id="YGL124C" />
+    <node id="YNL286W" />
+    <node id="YJL189W" />
+    <node id="YOR229W" />
+    <node id="YDR480W" />
+    <node id="YBR131W" />
+    <node id="YPL095C" />
+    <node id="YER087CA" />
+    <node id="YLR177W" />
+    <node id="YDR099W" />
+    <node id="YOR265W" />
+    <node id="YJR091C" />
+    <node id="YDL006W" />
+    <node id="YDR162C" />
+    <node id="YPL020C" />
+    <node id="YMR071C" />
+    <node id="YMR300C" />
+    <node id="YDL239C" />
+    <node id="YLR098C" />
+    <node id="YDR479C" />
+    <node id="YMR289W" />
+    <node id="YOL083W" />
+    <node id="YPR174C" />
+    <node id="YJL019W" />
+    <node id="YEL051W" />
+    <node id="YOR174W" />
+    <node id="YDL144C" />
+    <node id="YNL086W" />
+    <node id="YGL208W" />
+    <node id="YDR477W" />
+    <node id="YGL155W" />
+    <node id="YKL019W" />
+    <node id="YNR051C" />
+    <node id="YER151C" />
+    <node id="YOR026W" />
+    <node id="YGR188C" />
+    <node id="YNL001W" />
+    <node id="YKR084C" />
+    <node id="YGL238W" />
+    <node id="YNL189W" />
+    <node id="YGR075C" />
+    <node id="YML051W" />
+    <node id="YGL252C" />
+    <node id="YJR010W" />
+    <node id="YBL023C" />
+    <node id="YIL074C" />
+    <node id="YKL025C" />
+    <node id="YJL112W" />
+    <node id="YBR080C" />
+    <node id="YLR321C" />
+    <node id="YOR192CA" />
+    <node id="YIL144W" />
+    <node id="YIL105WA" />
+    <node id="YJR011C" />
+    <node id="YGR134W" />
+    <node id="YLR120WA" />
+    <node id="YPL208W" />
+    <node id="YGR268C" />
+    <node id="YER125W" />
+    <node id="YJL218W" />
+    <node id="YNL044W" />
+    <node id="YHR167W" />
+    <node id="YLR423C" />
+    <node id="YDR020C" />
+    <node id="YOR380W" />
+    <node id="YEL053C" />
+    <node id="YPR051W" />
+    <node id="YJL061W" />
+    <node id="YNR011C" />
+    <node id="YNL041C" />
+    <node id="YLR315W" />
+    <node id="YDR383C" />
+    <node id="YIR017C" />
+    <node id="YGL115W" />
+    <node id="YKL061W" />
+    <node id="YDR240C" />
+    <node id="YDR473C" />
+    <node id="YPL018W" />
+    <node id="YDR132C" />
+    <node id="YLR442C" />
+    <node id="YGL175C" />
+    <node id="YLR175W" />
+    <node id="YNL124W" />
+    <node id="YLR015W" />
+    <node id="YDR469W" />
+    <node id="YER146W" />
+    <node id="YLR438CA" />
+    <node id="YHR076W" />
+    <node id="YMR079W" />
+    <node id="YNL094W" />
+    <node id="YAL049C" />
+    <node id="YNL025C" />
+    <node id="YDR388W" />
+    <node id="YCR083W" />
+    <node id="YOR007C" />
+    <node id="YNL138W" />
+    <node id="YFL039C" />
+    <node id="YGL181W" />
+    <node id="YKL191W" />
+    <node id="YIL103W" />
+    <node id="YDL057W" />
+    <node id="YJL058C" />
+    <node id="YPL151C" />
+    <node id="YIL152W" />
+    <node id="YPL077C" />
+    <node id="YMR182C" />
+    <node id="YNR034W" />
+    <node id="YOR178C" />
+    <node id="YLR021W" />
+    <node id="YPL144W" />
+    <node id="YML110C" />
+    <node id="YGR061C" />
+    <node id="YDR142C" />
+    <node id="YFR027W" />
+    <node id="YPR113W" />
+    <node id="YGL187C" />
+    <node id="YML042W" />
+    <node id="YBR260C" />
+    <node id="YDR416W" />
+    <node id="YPL002C" />
+    <node id="YBR107C" />
+    <node id="YDR489W" />
+    <node id="YER182W" />
+    <node id="YKL142W" />
+    <node id="YGR261C" />
+    <node id="YOR284W" />
+    <node id="YBR077C" />
+    <node id="YGR201C" />
+    <node id="YGR082W" />
+    <node id="YGR120C" />
+    <node id="YOR124C" />
+    <node id="YNL107W" />
+    <node id="YIL119C" />
+    <node id="YIL084C" />
+    <node id="YBL026W" />
+    <node id="YMR052W" />
+    <node id="YOR160W" />
+    <node id="YOR185C" />
+    <node id="YBR252W" />
+    <node id="YPL125W" />
+    <node id="YPL268W" />
+    <node id="YGL036W" />
+    <node id="YIR032C" />
+    <node id="YNL329C" />
+    <node id="YDL166C" />
+    <node id="YER177W" />
+    <node id="YAL034WA" />
+    <node id="YJR112W" />
+    <node id="YKL159C" />
+    <node id="YBR247C" />
+    <node id="YMR308C" />
+    <node id="YML100W" />
+    <node id="YBR126C" />
+    <node id="YJR021C" />
+    <node id="YNR046W" />
+    <node id="YDR140W" />
+    <node id="YBR261C" />
+    <node id="YAL046C" />
+    <node id="YDR098C" />
+    <node id="YPL124W" />
+    <node id="YJR013W" />
+    <node id="YDL190C" />
+    <node id="YBR170C" />
+    <node id="YMR294W" />
+    <node id="YHR129C" />
+    <node id="YNL056W" />
+    <node id="YNL032W" />
+    <node id="YLR440C" />
+    <node id="YNL258C" />
+    <node id="YER128W" />
+    <node id="YLR181C" />
+    <node id="YLR026C" />
+    <node id="YLR254C" />
+    <node id="YOR269W" />
+    <node id="YGR177C" />
+    <node id="YNL315C" />
+    <node id="YJL104W" />
+    <node id="YMR024W" />
+    <node id="YDL022W" />
+    <node id="YBR254C" />
+    <node id="YER101C" />
+    <node id="YDR173C" />
+    <node id="YMR042W" />
+    <node id="YIL039W" />
+    <node id="YIR038C" />
+    <node id="YGL044C" />
+    <node id="YMR061W" />
+    <node id="YMR021C" />
+    <node id="YOL059W" />
+    <node id="YDR357C" />
+    <node id="YHR193C" />
+    <node id="YPL037C" />
+    <node id="YNL249C" />
+    <node id="YDR045C" />
+    <node id="YIL122W" />
+    <node id="YJR101W" />
+    <node id="YLL049W" />
+    <node id="YML041C" />
+    <node id="YML071C" />
+    <node id="YGL223C" />
+    <node id="YPL065W" />
+    <node id="YDR532C" />
+    <node id="YOR158W" />
+    <node id="YPL069C" />
+    <node id="YFL010C" />
+    <node id="YPL149W" />
+    <node id="YMR159C" />
+    <node id="YDR428C" />
+    <node id="YOL143C" />
+    <node id="YLR082C" />
+    <node id="YJL030W" />
+    <node id="YLR409C" />
+    <node id="YJL069C" />
+    <node id="YER184C" />
+    <node id="YOR276W" />
+    <node id="YOL139C" />
+    <node id="YML035C" />
+    <node id="YPR108W" />
+    <node id="YER021W" />
+    <node id="YDL108W" />
+    <node id="YGL134W" />
+    <node id="YCR020CA" />
+    <node id="YDR378C" />
+    <node id="YGR040W" />
+    <node id="YJL110C" />
+    <node id="YDR520C" />
+    <node id="YOR250C" />
+    <node id="YKL020C" />
+    <node id="YPR085C" />
+    <node id="YKL033W" />
+    <node id="YLR132C" />
+    <node id="YGR223C" />
+    <node id="YLR385C" />
+    <node id="YHL006C" />
+    <node id="YLR376C" />
+    <node id="YPR159CA" />
+    <node id="YDR195W" />
+    <node id="YNL111C" />
+    <node id="YLR011W" />
+    <node id="YJL075C" />
+    <node id="YDR051C" />
+    <node id="YHL009C" />
+    <node id="YOR379C" />
+    <node id="YJL103C" />
+    <node id="YGR142W" />
+    <node id="YMR168C" />
+    <node id="YNL263C" />
+    <node id="YOL012C" />
+    <node id="YKR048C" />
+    <node id="YER180C" />
+    <node id="YNL198C" />
+    <node id="YDR177W" />
+    <node id="YPR093C" />
+    <node id="YBL001C" />
+    <node id="YHR111W" />
+    <node id="YDR488C" />
+    <node id="YDR424C" />
+    <node id="YNL334C" />
+    <node id="YMR096W" />
+    <node id="YFL060C" />
+    <node id="YMR095C" />
+    <node id="YIL095W" />
+    <node id="YLR206W" />
+    <node id="YHR074W" />
+    <node id="YDL117W" />
+    <node id="YMR032W" />
+    <node id="YHR068W" />
+    <node id="YLL036C" />
+    <node id="YHR121W" />
+    <node id="YGR178C" />
+    <node id="YBR188C" />
+    <node id="YMR124W" />
+    <node id="YHR113W" />
+    <node id="YKL074C" />
+    <node id="YBR233W" />
+    <node id="YOL082W" />
+    <node id="YPL031C" />
+    <node id="YIL128W" />
+    <node id="YHR122W" />
+    <node id="YKL040C" />
+    <node id="YML055W" />
+    <node id="YIL153W" />
+    <node id="YNL314W" />
+    <node id="YDR320CA" />
+    <node id="YKR083C" />
+    <node id="YKR034W" />
+    <node id="YDR121W" />
+    <node id="YJL065C" />
+    <node id="YDL133CA" />
+    <node id="YPR066W" />
+    <node id="YPL003W" />
+    <node id="YLL010C" />
+    <node id="YOR043W" />
+    <node id="YLL001W" />
+    <node id="YNL078W" />
+    <node id="YER018C" />
+    <node id="YHL004W" />
+    <node id="YGL094C" />
+    <node id="YOR230W" />
+    <node id="YMR210W" />
+    <node id="YGR239C" />
+    <node id="YGL130W" />
+    <node id="YPL228W" />
+    <node id="YPL173W" />
+    <node id="YOR167C" />
+    <node id="YOL149W" />
+    <node id="YGR129W" />
+    <node id="YJR022W" />
+    <node id="YHR160C" />
+    <node id="YKL071W" />
+    <node id="YDR259C" />
+    <node id="YIL079C" />
+    <node id="YDR085C" />
+    <node id="YIL092W" />
+    <node id="YML043C" />
+    <node id="YJL183W" />
+    <node id="YHL003C" />
+    <node id="YLR032W" />
+    <node id="YBR186W" />
+    <node id="YLR293C" />
+    <node id="YPL108W" />
+    <node id="YLR405W" />
+    <node id="YAL036C" />
+    <node id="YDL045C" />
+    <node id="YGR077C" />
+    <node id="YHR134W" />
+    <node id="YDR476C" />
+    <node id="YDR239C" />
+    <node id="YMR111C" />
+    <node id="YGL250W" />
+    <node id="YBL078C" />
+    <node id="YHR171W" />
+    <node id="YOR028C" />
+    <node id="YGL053W" />
+    <node id="YPL070W" />
+    <node id="YPL088W" />
+    <node id="YGR088W" />
+    <node id="YLR245C" />
+    <node id="YML106W" />
+    <node id="YGL037C" />
+    <node id="YER086W" />
+    <node id="YDR256C" />
+    <node id="YOR108W" />
+    <node id="YDL209C" />
+    <node id="YBR102C" />
+    <node id="YKL157W" />
+    <node id="YKL069W" />
+    <node id="YGR209C" />
+    <node id="YHR114W" />
+    <node id="YML062C" />
+    <node id="YLR350W" />
+    <node id="YER019W" />
+    <node id="YPL251W" />
+    <node id="YPL022W" />
+    <node id="YML095C" />
+    <node id="YFL017WA" />
+    <node id="YOR159C" />
+    <node id="YML008C" />
+    <node id="YLR219W" />
+    <node id="YPL004C" />
+    <node id="YMR314W" />
+    <node id="YNL199C" />
+    <node id="YBR133C" />
+    <node id="YJR068W" />
+    <node id="YDR229W" />
+    <node id="YJR075W" />
+    <node id="YPL094C" />
+    <node id="YNL219C" />
+    <node id="YOR042W" />
+    <node id="YMR033W" />
+    <node id="YCL021WA" />
+    <node id="YMR117C" />
+    <node id="YDL015C" />
+    <node id="YOR324C" />
+    <node id="YOR138C" />
+    <node id="YMR028W" />
+    <node id="YDL134C" />
+    <node id="YGL225W" />
+    <node id="YCR009C" />
+    <node id="YLR328W" />
+    <node id="YOR385W" />
+    <node id="YLR417W" />
+    <node id="YNL104C" />
+    <node id="YDL125C" />
+    <node id="YHL018W" />
+    <node id="YGL122C" />
+    <node id="YOL070C" />
+    <node id="YIL053W" />
+    <node id="YPL201C" />
+    <node id="YIL109C" />
+    <node id="YDL208W" />
+    <node id="YFL059W" />
+    <node id="YNL333W" />
+    <node id="YDR502C" />
+    <node id="YLR180W" />
+    <node id="YLR157C" />
+    <node id="YKL117W" />
+    <node id="YNL153C" />
+    <node id="YFR024CA" />
+    <node id="YIR034C" />
+    <node id="YIL069C" />
+    <node id="YLR392C" />
+    <node id="YGR286C" />
+    <node id="YMR070W" />
+    <node id="YKL063C" />
+    <node id="YJR024C" />
+    <node id="YOL133W" />
+    <node id="YJL047C" />
+    <node id="YER056CA" />
+    <node id="YDR244W" />
+    <node id="YGR086C" />
+    <node id="YIR035C" />
+    <node id="YDR032C" />
+    <node id="YHR105W" />
+    <node id="YOR304CA" />
+    <node id="YER063W" />
+    <node id="YDL084W" />
+    <node id="YOR181W" />
+    <node id="YJR046W" />
+    <node id="YLR393W" />
+    <node id="YHR123W" />
+    <node id="YJR047C" />
+    <node id="YEL034W" />
+    <node id="YDR510W" />
+    <node id="YDL013W" />
+    <node id="YDR518W" />
+    <node id="YPL129W" />
+    <node id="YOL111C" />
+    <node id="YDR423C" />
+    <node id="YLR215C" />
+    <node id="YHR115C" />
+    <node id="YNL116W" />
+    <node id="YNR007C" />
+    <node id="YHL039W" />
+    <node id="YBR103W" />
+    <node id="YKR059W" />
+    <node id="YJL138C" />
+    <node id="YPR160W" />
+    <node id="YDR498C" />
+    <node id="YNL021W" />
+    <node id="YGR262C" />
+    <node id="YMR146C" />
+    <node id="YDR429C" />
+    <node id="YJL173C" />
+    <node id="YAR007C" />
+    <node id="YKL068W" />
+    <node id="YLR208W" />
+    <node id="YMR017W" />
+    <node id="YPL204W" />
+    <node id="YHR185C" />
+    <node id="YGR195W" />
+    <node id="YHR072WA" />
+    <node id="YBL101C" />
+    <node id="YNL225C" />
+    <node id="YNL063W" />
+    <node id="YGR119C" />
+    <node id="YCL046W" />
+    <node id="YJL048C" />
+    <node id="YDR453C" />
+    <node id="YML028W" />
+    <node id="YLR089C" />
+    <node id="YMR298W" />
+    <node id="YCR088W" />
+    <node id="YGL172W" />
+    <node id="YGR240C" />
+    <node id="YMR205C" />
+    <node id="YOR226C" />
+    <node id="YIL045W" />
+    <node id="YGL145W" />
+    <node id="YDL090C" />
+    <node id="YMR257C" />
+    <node id="YBR279W" />
+    <node id="YOR123C" />
+    <node id="YDR486C" />
+    <node id="YDR001C" />
+    <node id="YLR270W" />
+    <node id="YIL085C" />
+    <node id="YLR117C" />
+    <node id="YOL135C" />
+    <node id="YER009W" />
+    <node id="YKL168C" />
+    <node id="YNL152W" />
+    <node id="YLR330W" />
+    <node id="YOR299W" />
+    <node id="YBL047C" />
+    <node id="YGR241C" />
+    <node id="YGL071W" />
+    <node id="YGR211W" />
+    <node id="YJR056C" />
+    <node id="YER010C" />
+    <node id="YHR161C" />
+    <node id="YHR211W" />
+    <node id="YGR010W" />
+    <node id="YBR111C" />
+    <node id="YJR050W" />
+    <node id="YDR397C" />
+    <node id="YER159C" />
+    <node id="YEL054C" />
+    <node id="YDR465C" />
+    <node id="YDR418W" />
+    <node id="YAL044WA" />
+    <node id="YDR411C" />
+    <node id="YLR279W" />
+    <node id="YPR191W" />
+    <node id="YJR023C" />
+    <node id="YLR404W" />
+    <node id="YMR139W" />
+    <node id="YDL220C" />
+    <node id="YLR268W" />
+    <node id="YPR107C" />
+    <node id="YJR093C" />
+    <node id="YDR364C" />
+    <node id="YDR472W" />
+    <node id="YOR210W" />
+    <node id="YDR527W" />
+    <node id="YDL188C" />
+    <node id="YDR138W" />
+    <node id="YKL171W" />
+    <node id="YNL222W" />
+    <node id="YNL075W" />
+    <node id="YDR374C" />
+    <node id="YNR052C" />
+    <node id="YLR368W" />
+    <node id="YJR118C" />
+    <node id="YCL033C" />
+    <node id="YMR294WA" />
+    <node id="YMR067C" />
+    <node id="YDL126C" />
+    <node id="YOR232W" />
+    <node id="YLR031W" />
+    <node id="YJR003C" />
+    <node id="YNL288W" />
+    <node id="YOR095C" />
+    <node id="YOL054W" />
+    <node id="YPR182W" />
+    <node id="YPR173C" />
+    <node id="YBR194W" />
+    <node id="YPR152C" />
+    <node id="YDR189W" />
+    <node id="YOR094W" />
+    <node id="YBL060W" />
+    <node id="YPR082C" />
+    <node id="YBR055C" />
+    <node id="YER126C" />
+    <node id="YGR263C" />
+    <node id="YER144C" />
+    <node id="YDR212W" />
+    <node id="YDL207W" />
+    <node id="YDR192C" />
+    <node id="YDR036C" />
+    <node id="YLR397C" />
+    <node id="YDR107C" />
+    <node id="YOR361C" />
+    <node id="YJL097W" />
+    <node id="YDR296W" />
+    <node id="YLR167W" />
+    <node id="YGR123C" />
+    <node id="YDR086C" />
+    <node id="YPR071W" />
+    <node id="YDR214W" />
+    <node id="YMR186W" />
+    <node id="YMR213W" />
+    <node id="YLR262C" />
+    <node id="YOR308C" />
+    <node id="YNR032CA" />
+    <node id="YBL025W" />
+    <node id="YMR270C" />
+    <node id="YIL132C" />
+    <node id="YAL020C" />
+    <node id="YBL071WA" />
+    <node id="YMR316W" />
+    <node id="YJL151C" />
+    <node id="TORF21" />
+    <node id="YNL147W" />
+    <node id="YPR049C" />
+    <node id="YBR212W" />
+    <node id="YPL184C" />
+    <node id="YGL048C" />
+    <node id="YGL004C" />
+    <node id="YJR053W" />
+    <node id="YMR055C" />
+    <node id="YJL155C" />
+    <node id="YML011C" />
+    <node id="YKL211C" />
+    <node id="YER090W" />
+    <node id="YOR322C" />
+    <node id="YHR131C" />
+    <node id="YEL056W" />
+    <node id="YPL001W" />
+    <node id="YGR063C" />
+    <node id="YLR119W" />
+    <node id="YCR004C" />
+    <node id="YBR052C" />
+    <node id="YML053C" />
+    <node id="YJR009C" />
+    <node id="YDL113C" />
+    <node id="YJL036W" />
+    <node id="YDL164C" />
+    <node id="YDR016C" />
+    <node id="YLL017W" />
+    <node id="YBR221C" />
+    <node id="TORF19" />
+    <node id="YCR020C" />
+    <node id="YHR060W" />
+    <node id="YLR447C" />
+    <node id="YOL116W" />
+    <node id="YBR150C" />
+    <node id="YNL307C" />
+    <node id="YGR144W" />
+    <node id="YKL151C" />
+    <node id="YDL189W" />
+    <node id="YOL109W" />
+    <node id="YIL008W" />
+    <node id="YJL127WA" />
+    <node id="YGL144C" />
+    <node id="YCR030C" />
+    <node id="YGR130C" />
+    <node id="YPR153W" />
+    <node id="YHR184W" />
+    <node id="YMR059W" />
+    <node id="YOR129C" />
+    <node id="YMR276W" />
+    <node id="YDL005C" />
+    <node id="YBR123C" />
+    <node id="YGR113W" />
+    <node id="YBR278W" />
+    <node id="YDL053C" />
+    <node id="YBR094W" />
+    <node id="YGL051W" />
+    <node id="YOL003C" />
+    <node id="YMR135C" />
+    <node id="YCL039W" />
+    <node id="YKR014C" />
+    <node id="YMR258C" />
+    <node id="YKL154W" />
+    <node id="YDL100C" />
+    <node id="YPR028W" />
+    <node id="YJR039W" />
+    <node id="YLR108C" />
+    <node id="YDR448W" />
+    <node id="YGL090W" />
+    <node id="YAR028W" />
+    <node id="YJL117W" />
+    <node id="YJR044C" />
+    <node id="YIL105C" />
+    <node id="YOL126C" />
+    <node id="YPR118W" />
+    <node id="YAL055W" />
+    <node id="YJR010CA" />
+    <node id="YNL149C" />
+    <node id="YBR241C" />
+    <node id="YFL017C" />
+    <node id="YNL099C" />
+    <node id="YPR048W" />
+    <node id="YKR071C" />
+    <node id="YPL053C" />
+    <node id="YGR232W" />
+    <node id="YPR158W" />
+    <node id="YNL007C" />
+    <node id="YKL122C" />
+    <node id="YDL092W" />
+    <node id="YKL008C" />
+    <node id="YBR042C" />
+    <node id="YNR064C" />
+    <node id="YOR032C" />
+    <node id="YCR068W" />
+    <node id="YIL026C" />
+    <node id="YPR068C" />
+    <node id="YOL145C" />
+    <node id="YIR033W" />
+    <node id="YGL244W" />
+    <node id="YBR200W" />
+    <node id="YAL041W" />
+    <node id="YKL189W" />
+    <node id="YPR105C" />
+    <node id="YNR067C" />
+    <node id="YBR029C" />
+    <node id="YIL033C" />
+    <node id="YGR233C" />
+    <node id="YKL001C" />
+    <node id="YFL009W" />
+    <node id="YCR073C" />
+    <node id="YPL267W" />
+    <node id="YGR146C" />
+    <node id="YOR359W" />
+    <node id="YOR197W" />
+    <node id="YOR355W" />
+    <node id="YCR065W" />
+    <node id="YDR123C" />
+    <node id="YEL042W" />
+    <node id="YMR047C" />
+    <node id="YAL021C" />
+    <node id="YML029W" />
+    <node id="YLL014W" />
+    <node id="YGR099W" />
+    <node id="YLL045C" />
+    <node id="YNL126W" />
+    <node id="YLR212C" />
+    <node id="YFL047W" />
+    <node id="YGL156W" />
+    <node id="YKL103C" />
+    <node id="YDR171W" />
+    <node id="YML082W" />
+    <node id="YIL046W" />
+    <node id="YPL174C" />
+    <node id="YER024W" />
+    <node id="YAR035W" />
+    <node id="YPR193C" />
+    <node id="YHR140W" />
+    <node id="YOL018C" />
+    <node id="YDR513W" />
+    <node id="YLR297W" />
+    <node id="YDL072C" />
+    <node id="YGL221C" />
+    <node id="YER188W" />
+    <node id="YER062C" />
+    <node id="YOR283W" />
+    <node id="YNR010W" />
+    <node id="YMR223W" />
+    <node id="YJR058C" />
+    <node id="YBL037W" />
+    <node id="YPL100W" />
+    <node id="YFL038C" />
+    <node id="YOR370C" />
+    <node id="YJL011C" />
+    <node id="YOR109W" />
+    <node id="YOR054C" />
+    <node id="YKL088W" />
+    <node id="YOR117W" />
+    <node id="YJL184W" />
+    <node id="YBR234C" />
+    <node id="YDR063W" />
+    <node id="YGR180C" />
+    <node id="YLR258W" />
+    <node id="YJR136C" />
+    <node id="YGR158C" />
+    <node id="YER052C" />
+    <node id="YKL075C" />
+    <node id="YNL091W" />
+    <node id="YBR201W" />
+    <node id="YIL162W" />
+    <node id="YGL086W" />
+    <node id="YJL157C" />
+    <node id="YBL057C" />
+    <node id="YDR353W" />
+    <node id="YKL192C" />
+    <node id="YER017C" />
+    <node id="YDR304C" />
+    <node id="YBR182C" />
+    <node id="YHR057C" />
+    <node id="YGR029W" />
+    <node id="YBR276C" />
+    <node id="YKL214C" />
+    <node id="YDR314C" />
+    <node id="YLR146C" />
+    <node id="YHR128W" />
+    <node id="YMR218C" />
+    <node id="YEL048C" />
+    <node id="YML077W" />
+    <node id="YML099C" />
+    <node id="YJL025W" />
+    <node id="YPL122C" />
+    <node id="YDL157C" />
+    <node id="YCL056C" />
+    <node id="YPL280W" />
+    <node id="YOR136W" />
+    <node id="YER022W" />
+    <node id="YOR264W" />
+    <node id="YER134C" />
+    <node id="YFL044C" />
+    <node id="YIL051C" />
+    <node id="YER015W" />
+    <node id="YER070W" />
+    <node id="YLR244C" />
+    <node id="YNR029C" />
+    <node id="YBR222C" />
+    <node id="YLR389C" />
+    <node id="YJL068C" />
+    <node id="YEL020C" />
+    <node id="YPR149W" />
+    <node id="YMR316CB" />
+    <node id="YMR288W" />
+    <node id="YJL121C" />
+    <node id="YKR043C" />
+    <node id="YPR181C" />
+    <node id="YBL058W" />
+    <node id="YDR328C" />
+    <node id="YBR273C" />
+    <node id="YNL049C" />
+    <node id="YNL312W" />
+    <node id="YER047C" />
+    <node id="YMR092C" />
+    <node id="YDR146C" />
+    <node id="YNL093W" />
+    <node id="YBR195C" />
+    <node id="YLR017W" />
+    <node id="YHR096C" />
+    <node id="YGR074W" />
+    <node id="YKL183W" />
+    <node id="YGR038W" />
+    <node id="YBR243C" />
+    <node id="YIL124W" />
+    <node id="YBR126WA" />
+    <node id="YBL093C" />
+    <node id="YDL106C" />
+    <node id="YNR030W" />
+    <node id="YGL104C" />
+    <node id="YBR284W" />
+    <node id="YOL130W" />
+    <node id="YBL014C" />
+    <node id="YGR027C" />
+    <node id="YHR084W" />
+    <node id="YHR098C" />
+    <node id="YER059W" />
+    <node id="YOL061W" />
+    <node id="YER099C" />
+    <node id="YGR250C" />
+    <node id="YPL178W" />
+    <node id="YDR292C" />
+    <node id="YLR173W" />
+    <node id="YLR072W" />
+    <node id="YNL135C" />
+    <node id="YDL195W" />
+    <node id="YIR036C" />
+    <node id="YNL277W" />
+    <node id="YCR007C" />
+    <node id="YLR455W" />
+    <node id="YLR223C" />
+    <node id="YNL290W" />
+    <node id="YMR043W" />
+    <node id="YJR074W" />
+    <node id="YER025W" />
+    <node id="YGL095C" />
+    <node id="YDR323C" />
+    <node id="YKL181W" />
+    <node id="YHL011C" />
+    <node id="YHL012W" />
+    <node id="YHR025W" />
+    <node id="YHR180W" />
+    <node id="YMR016C" />
+    <node id="YML101C" />
+    <node id="YPL157W" />
+    <node id="YNR004W" />
+    <node id="YER150W" />
+    <node id="YMR261C" />
+    <node id="YDL184C" />
+    <node id="YLR096W" />
+    <node id="YGR122W" />
+    <node id="YKL135C" />
+    <node id="YAL027W" />
+    <node id="YGL213C" />
+    <node id="YML108W" />
+    <node id="YOR301W" />
+    <node id="YOR321W" />
+    <node id="YHR026W" />
+    <node id="YDR159W" />
+    <node id="YJL090C" />
+    <node id="YCR063W" />
+    <node id="YKL015W" />
+    <node id="YMR121C" />
+    <node id="YFR043C" />
+    <node id="YOL089C" />
+    <node id="YML064C" />
+    <node id="YGR028W" />
+    <node id="YER174C" />
+    <node id="YML038C" />
+    <node id="YJR073C" />
+    <node id="YIL065C" />
+    <node id="YPR075C" />
+    <node id="YDR526C" />
+    <node id="YLR006C" />
+    <node id="YML014W" />
+    <node id="YBL091CA" />
+    <node id="YML125C" />
+    <node id="YIL050W" />
+    <node id="YIR015W" />
+    <node id="YOR288C" />
+    <node id="YPL203W" />
+    <node id="YBR289W" />
+    <node id="YOR353C" />
+    <node id="YDR330W" />
+    <node id="YGR247W" />
+    <node id="YPR017C" />
+    <node id="YHR102W" />
+    <node id="YBR108W" />
+    <node id="YJR127C" />
+    <node id="YBL091C" />
+    <node id="YNL118C" />
+    <node id="YEL012W" />
+    <node id="YCR027C" />
+    <node id="YHL033C" />
+    <node id="YNL181W" />
+    <node id="YGR149W" />
+    <node id="YOL148C" />
+    <node id="YKL132C" />
+    <node id="YPR022C" />
+    <node id="YMR048W" />
+    <node id="YNL267W" />
+    <node id="YOR258W" />
+    <node id="YLR243W" />
+    <node id="YGR205W" />
+    <node id="YMR315W" />
+    <node id="YDR446W" />
+    <node id="YMR233W" />
+    <node id="YPL209C" />
+    <node id="YBR156C" />
+    <node id="YNL088W" />
+    <node id="YKL032C" />
+    <node id="YML023C" />
+    <node id="YBR249C" />
+    <node id="YGL087C" />
+    <node id="YDR092W" />
+    <node id="YGR179C" />
+    <node id="YNL223W" />
+    <node id="YPR019W" />
+    <node id="YJR052W" />
+    <node id="YAL016W" />
+    <node id="YNL127W" />
+    <node id="YKL043W" />
+    <node id="YBR223C" />
+    <node id="YJR076C" />
+    <node id="YFR047C" />
+    <node id="YDR335W" />
+    <node id="YHR090C" />
+    <node id="YFL024C" />
+    <node id="YNL273W" />
+    <node id="YNL042W" />
+    <node id="YMR219W" />
+    <node id="YKR026C" />
+    <node id="YER038C" />
+    <node id="YLL060C" />
+    <node id="YDL029W" />
+    <node id="YOL001W" />
+    <node id="YDL044C" />
+    <node id="YOR144C" />
+    <node id="YDR174W" />
+    <node id="YGL060W" />
+    <node id="YML016C" />
+    <node id="YKR072C" />
+    <node id="YGR238C" />
+    <node id="YHR158C" />
+    <node id="YPL219W" />
+    <node id="YGL170C" />
+    <node id="YOL123W" />
+    <node id="YBR264C" />
+    <node id="YIR001C" />
+    <node id="YLR432W" />
+    <node id="YML056C" />
+    <node id="YGL108C" />
+    <node id="YER112W" />
+    <node id="YNL171C" />
+    <node id="YCR106W" />
+    <node id="YIR003W" />
+    <node id="YER071C" />
+    <node id="YPL240C" />
+    <node id="YLR058C" />
+    <node id="YKR099W" />
+    <node id="YKL197C" />
+    <node id="YDR245W" />
+    <node id="YJL070C" />
+    <node id="YNL062C" />
+    <node id="YJL125C" />
+    <node id="YGR133W" />
+    <node id="YBR087W" />
+    <node id="YPR178W" />
+    <node id="YMR227C" />
+    <node id="YLR399C" />
+    <node id="YIL007C" />
+    <node id="YNL251C" />
+    <node id="YPL190C" />
+    <node id="YAR033W" />
+    <node id="YPR069C" />
+    <node id="YJR007W" />
+    <node id="YJL041W" />
+    <node id="YGL112C" />
+    <node id="YBR198C" />
+    <node id="YER149C" />
+    <node id="YOL069W" />
+    <node id="YDL070W" />
+    <node id="YDL064W" />
+    <node id="YOR005C" />
+    <node id="YAL024C" />
+    <node id="YJL031C" />
+    <node id="YPR176C" />
+    <node id="YLR335W" />
+    <node id="YDL105W" />
+    <node id="YGR003W" />
+    <node id="YGR098C" />
+    <node id="YDR113C" />
+    <node id="YPR171W" />
+    <node id="YBR088C" />
+    <node id="YER157W" />
+    <node id="YPL259C" />
+    <node id="YDL055C" />
+    <node id="YDR167W" />
+    <node id="YML114C" />
+    <node id="YER092W" />
+    <node id="YHR106W" />
+    <node id="YHR107C" />
+    <node id="YMR275C" />
+    <node id="YDR152W" />
+    <node id="YGR057C" />
+    <node id="YLR452C" />
+    <node id="YLR275W" />
+    <node id="YFL037W" />
+    <node id="YNL102W" />
+    <node id="YOR194C" />
+    <node id="YKL058W" />
+    <node id="YGR121C" />
+    <node id="YLR135W" />
+    <node id="YDR115W" />
+    <node id="YDL076C" />
+    <node id="YKL052C" />
+    <node id="YGR218W" />
+    <node id="YIL160C" />
+    <node id="YLR267W" />
+    <node id="YDL235C" />
+    <node id="YJL124C" />
+    <node id="YDR004W" />
+    <node id="YDR076W" />
+    <node id="YJL006C" />
+    <node id="YML112W" />
+    <node id="YGL058W" />
+    <node id="YLR024C" />
+    <node id="YBR109C" />
+    <node id="YGL106W" />
+    <node id="YPR143W" />
+    <node id="YHR066W" />
+    <node id="YDR205W" />
+    <node id="YNR039C" />
+    <node id="YBL035C" />
+    <node id="YLL042C" />
+    <node id="YGL026C" />
+    <node id="YFL045C" />
+    <node id="YLL022C" />
+    <node id="YFR034C" />
+    <node id="YGL079W" />
+    <node id="YBR152W" />
+    <node id="YNL155W" />
+    <node id="YOR162C" />
+    <node id="YMR267W" />
+    <node id="YBR101C" />
+    <node id="YAL005C" />
+    <node id="YJL013C" />
+    <node id="YOL021C" />
+    <node id="YBR030W" />
+    <node id="YDL132W" />
+    <node id="YKL003WA" />
+    <node id="YDR312W" />
+    <node id="YDR434W" />
+    <node id="YOR347C" />
+    <node id="YDL236W" />
+    <node id="YDL101C" />
+    <node id="YPL269W" />
+    <node id="YGL096W" />
+    <node id="YGL065C" />
+    <node id="YDR122W" />
+    <node id="YOR101W" />
+    <node id="YDR059C" />
+    <node id="YMR087W" />
+    <node id="YMR322C" />
+    <node id="YOR391C" />
+    <node id="YBR006W" />
+    <node id="YNL040W" />
+    <node id="YNL218W" />
+    <node id="YDR531W" />
+    <node id="YBR019C" />
+    <node id="YGL240W" />
+    <node id="YJL134W" />
+    <node id="YNL316C" />
+    <node id="YBR242W" />
+    <node id="YDL212W" />
+    <node id="YDR027C" />
+    <node id="YFL029C" />
+    <node id="YHL031C" />
+    <node id="YEL032W" />
+    <node id="YHR033W" />
+    <node id="YOR223W" />
+    <node id="YNR075W" />
+    <node id="YJR070C" />
+    <node id="YER026C" />
+    <node id="YBR162WA" />
+    <node id="YDR431W" />
+    <node id="YJL135W" />
+    <node id="YGR140W" />
+    <node id="YJL077WB" />
+    <node id="YGR081C" />
+    <node id="YGL247W" />
+    <node id="YBR134W" />
+    <node id="TORF47" />
+    <node id="YPL034W" />
+    <node id="YMR141C" />
+    <node id="YEL072W" />
+    <node id="YMR060C" />
+    <node id="YDR222W" />
+    <node id="YPL243W" />
+    <node id="Q0085" />
+    <node id="TORF1" />
+    <node id="YHR130C" />
+    <node id="YBL033C" />
+    <node id="YGR047C" />
+    <node id="YKR066C" />
+    <node id="YDL120W" />
+    <node id="YCR021C" />
+    <node id="YBR122C" />
+    <node id="YGR203W" />
+    <node id="YLL019C" />
+    <node id="YCR051W" />
+    <node id="YHR137W" />
+    <node id="YDR242W" />
+    <node id="YER118C" />
+    <node id="YNR027W" />
+    <node id="YEL029C" />
+    <node id="YCR024C" />
+    <node id="YNL243W" />
+    <node id="YDL066W" />
+    <node id="YKR097W" />
+    <node id="YMR170C" />
+    <node id="YBR153W" />
+    <node id="YAL012W" />
+    <node id="YNL098C" />
+    <node id="YML079W" />
+    <node id="YDR047W" />
+    <node id="YDR399W" />
+    <node id="YKR094C" />
+    <node id="YPR037C" />
+    <node id="YGR284C" />
+    <node id="YNL029C" />
+    <node id="YML097C" />
+    <node id="YOL065C" />
+    <node id="YLR036C" />
+    <node id="YJR130C" />
+    <node id="YLR273C" />
+    <node id="YJL185C" />
+    <node id="YFL028C" />
+    <node id="YER043C" />
+    <node id="YNL131W" />
+    <node id="YDR124W" />
+    <node id="YIR037W" />
+    <node id="YPL176C" />
+    <node id="YGL015C" />
+    <node id="YML025C" />
+    <node id="YFR002W" />
+    <node id="YDL031W" />
+    <node id="YPL260W" />
+    <node id="YDL025C" />
+    <node id="YPL164C" />
+    <node id="YGR067C" />
+    <node id="YOR377W" />
+    <node id="YMR197C" />
+    <node id="YDL056W" />
+    <node id="YER143W" />
+    <node id="YAL054C" />
+    <node id="YDR216W" />
+    <node id="YDR044W" />
+    <node id="YDR421W" />
+    <node id="YCR105W" />
+    <node id="YCL059C" />
+    <node id="YNR014W" />
+    <node id="YJL083W" />
+    <node id="YDR441C" />
+    <node id="YML022W" />
+    <node id="YJR121W" />
+    <node id="YDL073W" />
+    <node id="YBL020W" />
+    <node id="YLR114C" />
+    <node id="YGL237C" />
+    <node id="YPL266W" />
+    <node id="YOL107W" />
+    <node id="YLR186W" />
+    <node id="YJL100W" />
+    <node id="YML018C" />
+    <node id="YGR017W" />
+    <node id="YFL042C" />
+    <node id="YHR036W" />
+    <node id="YJL145W" />
+    <node id="YLR266C" />
+    <node id="YIL018W" />
+    <node id="YMR181C" />
+    <node id="YLR333C" />
+    <node id="YER130C" />
+    <node id="YDR273W" />
+    <node id="YDR308C" />
+    <node id="YPL235W" />
+    <node id="YLR359W" />
+    <node id="YBL069W" />
+    <node id="YIR025W" />
+    <node id="YKL098W" />
+    <node id="YLR439W" />
+    <node id="YGL054C" />
+    <node id="YBR205W" />
+    <node id="YMR104C" />
+    <node id="YNL217W" />
+    <node id="YJR084W" />
+    <node id="YDR363WA" />
+    <node id="YOL067C" />
+    <node id="YGR125W" />
+    <node id="YGL141W" />
+    <node id="YKR064W" />
+    <node id="YKL212W" />
+    <node id="YDR116C" />
+    <node id="YNL239W" />
+    <node id="YPL047W" />
+    <edge source="YLR291C" target="YNL229C" />
+    <edge source="YLR291C" target="YCR086W" />
+    <edge source="YLR291C" target="YPR062W" />
+    <edge source="YLR291C" target="YGR267C" />
+    <edge source="YLR291C" target="YOR111W" />
+    <edge source="YLR291C" target="YLR377C" />
+    <edge source="YLR291C" target="YHR112C" />
+    <edge source="YLR291C" target="YJR057W" />
+    <edge source="YLR291C" target="YCL028W" />
+    <edge source="YLR291C" target="YJL199C" />
+    <edge source="YLR291C" target="YNR012W" />
+    <edge source="YLR291C" target="YGL153W" />
+    <edge source="YLR291C" target="YLR386W" />
+    <edge source="YLR291C" target="YLL057C" />
+    <edge source="YLR291C" target="YGL252C" />
+    <edge source="YLR291C" target="YJR010W" />
+    <edge source="YLR291C" target="YBL023C" />
+    <edge source="YLR291C" target="YIL074C" />
+    <edge source="YLR291C" target="YKL025C" />
+    <edge source="YLR291C" target="YJL112W" />
+    <edge source="YLR291C" target="YBR080C" />
+    <edge source="YLR291C" target="YLR321C" />
+    <edge source="YLR291C" target="YJL218W" />
+    <edge source="YLR291C" target="YNL044W" />
+    <edge source="YLR291C" target="YPL069C" />
+    <edge source="YLR291C" target="YFL010C" />
+    <edge source="YLR291C" target="YGR120C" />
+    <edge source="YLR291C" target="YLR423C" />
+    <edge source="YLR291C" target="YDR428C" />
+    <edge source="YLR291C" target="YOL143C" />
+    <edge source="YLR291C" target="YOR284W" />
+    <edge source="YLR291C" target="YLR011W" />
+    <edge source="YLR291C" target="YER023W" />
+    <edge source="YLR291C" target="YDR051C" />
+    <edge source="YLR291C" target="YBR166C" />
+    <edge source="YLR291C" target="YHL009C" />
+    <edge source="YLR291C" target="YMR004W" />
+    <edge source="YLR291C" target="YDR480W" />
+    <edge source="YLR291C" target="YHR111W" />
+    <edge source="YLR291C" target="YPL070W" />
+    <edge source="YLR291C" target="YPL088W" />
+    <edge source="YLR291C" target="YGR088W" />
+    <edge source="YLR291C" target="YLR245C" />
+    <edge source="YLR291C" target="YML106W" />
+    <edge source="YLR291C" target="YOR042W" />
+    <edge source="YLR291C" target="YHR113W" />
+    <edge source="YLR291C" target="YER086W" />
+    <edge source="YLR291C" target="YDR256C" />
+    <edge source="YLR291C" target="YBR233W" />
+    <edge source="YLR291C" target="YLR291C" />
+    <edge source="YLR291C" target="YOR232W" />
+    <edge source="YLR291C" target="YGL175C" />
+    <edge source="YLR291C" target="YOR095C" />
+    <edge source="YLR291C" target="YHL018W" />
+    <edge source="YLR291C" target="YDR032C" />
+    <edge source="YLR291C" target="YOR380W" />
+    <edge source="YLR291C" target="YIR035C" />
+    <edge source="YLR291C" target="YLL001W" />
+    <edge source="YLR291C" target="YML042W" />
+    <edge source="YLR291C" target="YNL314W" />
+    <edge source="YLR291C" target="YDL144C" />
+    <edge source="YLR291C" target="YER125W" />
+    <edge source="YLR291C" target="YNL307C" />
+    <edge source="YLR291C" target="YGR144W" />
+    <edge source="YLR291C" target="YLR438CA" />
+    <edge source="YLR291C" target="YPR105C" />
+    <edge source="YLR291C" target="YNL025C" />
+    <edge source="YLR291C" target="YFL039C" />
+    <edge source="YLR291C" target="YPL049C" />
+    <edge source="YLR291C" target="YML099C" />
+    <edge source="YLR291C" target="YOR192CA" />
+    <edge source="YLR291C" target="YER144C" />
+    <edge source="YLR291C" target="YKL103C" />
+    <edge source="YLR291C" target="YOL083W" />
+    <edge source="YLR291C" target="YEL012W" />
+    <edge source="YLR291C" target="YKR026C" />
+    <edge source="YLR291C" target="YBR252W" />
+    <edge source="YLR291C" target="YKR034W" />
+    <edge source="YLR291C" target="YGL115W" />
+    <edge source="YLR291C" target="YBL058W" />
+    <edge source="YLR291C" target="YNL333W" />
+    <edge source="YLR291C" target="YMR095C" />
+    <edge source="YLR291C" target="YLR258W" />
+    <edge source="YLR291C" target="YMR032W" />
+    <edge source="YLR291C" target="YCR020C" />
+    <edge source="YLR291C" target="YDR520C" />
+    <edge source="YNL229C" target="YOL034W" />
+    <edge source="YNL229C" target="YAL032C" />
+    <edge source="YNL229C" target="YDR473C" />
+    <edge source="YNL229C" target="YKR034W" />
+    <edge source="YNL229C" target="YJL058C" />
+    <edge source="YNL229C" target="YLR389C" />
+    <edge source="YNL229C" target="YPL070W" />
+    <edge source="YNL229C" target="YNL229C" />
+    <edge source="YNL229C" target="YMR314W" />
+    <edge source="YNL229C" target="YIL153W" />
+    <edge source="YCR086W" target="YER106W" />
+    <edge source="YCR086W" target="YDR439W" />
+    <edge source="YCR086W" target="YKR010C" />
+    <edge source="YCR086W" target="YBR244W" />
+    <edge source="YCR086W" target="YNL311C" />
+    <edge source="YCR086W" target="YKR068C" />
+    <edge source="YCR086W" target="YCR083W" />
+    <edge source="YCR086W" target="YIL152W" />
+    <edge source="YCR086W" target="YCR086W" />
+    <edge source="YCR086W" target="YKR034W" />
+    <edge source="YCR086W" target="YOR264W" />
+    <edge source="YCR086W" target="YER086W" />
+    <edge source="YCR086W" target="YER144C" />
+    <edge source="YCR086W" target="YJL110C" />
+    <edge source="YPR062W" target="YPR062W" />
+    <edge source="YJL085W" target="YBR057C" />
+    <edge source="YBR057C" target="YPL135W" />
+    <edge source="YBR057C" target="YGL036W" />
+    <edge source="YBR057C" target="YER018C" />
+    <edge source="YBR057C" target="YHL004W" />
+    <edge source="YBR057C" target="YJL058C" />
+    <edge source="YBR057C" target="YJL025W" />
+    <edge source="YLR227C" target="YDR208W" />
+    <edge source="YLR227C" target="YOR284W" />
+    <edge source="YLR227C" target="YDL070W" />
+    <edge source="YLR010C" target="YDR082W" />
+    <edge source="YDR082W" target="YDL220C" />
+    <edge source="YDR013W" target="YPR135W" />
+    <edge source="YPR135W" target="YMR314W" />
+    <edge source="YPR135W" target="YNL102W" />
+    <edge source="YGR267C" target="YLR132C" />
+    <edge source="YGR267C" target="YPL251W" />
+    <edge source="YGR267C" target="YNL189W" />
+    <edge source="YGR267C" target="YMR308C" />
+    <edge source="YGR267C" target="YBR261C" />
+    <edge source="YOR111W" target="YMR021C" />
+    <edge source="YOR111W" target="YFR008W" />
+    <edge source="YOR111W" target="YJR039W" />
+    <edge source="YOR111W" target="YOR111W" />
+    <edge source="YLR377C" target="YLR377C" />
+    <edge source="YLR377C" target="YNL189W" />
+    <edge source="YLR377C" target="YJL103C" />
+    <edge source="YHR112C" target="YGR024C" />
+    <edge source="YHR112C" target="YHR112C" />
+    <edge source="YHR112C" target="YNL189W" />
+    <edge source="YHR112C" target="YBR261C" />
+    <edge source="YJR057W" target="YJR057W" />
+    <edge source="YCL028W" target="YCL028W" />
+    <edge source="YCL028W" target="YOR007C" />
+    <edge source="YCL028W" target="YGR142W" />
+    <edge source="YCL028W" target="YKL040C" />
+    <edge source="YCL028W" target="YNL189W" />
+    <edge source="YCL028W" target="YHR034C" />
+    <edge source="YCL028W" target="YML051W" />
+    <edge source="YCL028W" target="YNL288W" />
+    <edge source="YCL028W" target="YPL070W" />
+    <edge source="YCL028W" target="YCR060W" />
+    <edge source="YCL028W" target="YOL123W" />
+    <edge source="YCL028W" target="YOL111C" />
+    <edge source="YCL028W" target="YBR261C" />
+    <edge source="YFR008W" target="YMR029C" />
+    <edge source="YFR008W" target="YMR052W" />
+    <edge source="YFR008W" target="YDR532C" />
+    <edge source="YJL199C" target="YBR261C" />
+    <edge source="YDR373W" target="YGL153W" />
+    <edge source="YDR373W" target="YNL267W" />
+    <edge source="YGL153W" target="YDR142C" />
+    <edge source="YGL153W" target="YDL239C" />
+    <edge source="YGL153W" target="YNL086W" />
+    <edge source="YGL153W" target="YDR195W" />
+    <edge source="YGL153W" target="YER056CA" />
+    <edge source="YGL153W" target="YDL100C" />
+    <edge source="YGL153W" target="YOL145C" />
+    <edge source="YGL153W" target="YNL044W" />
+    <edge source="YGL153W" target="YGL153W" />
+    <edge source="YGL153W" target="YMR267W" />
+    <edge source="YGL153W" target="YDR036C" />
+    <edge source="YNR012W" target="YDR020C" />
+    <edge source="YNR012W" target="YNR012W" />
+    <edge source="YNR012W" target="YPL031C" />
+    <edge source="YNR012W" target="YKL071W" />
+    <edge source="YNR012W" target="YHR128W" />
+    <edge source="YNR012W" target="YDL239C" />
+    <edge source="YGL068W" target="YDR361C" />
+    <edge source="YDR361C" target="YHR022C" />
+    <edge source="YDR361C" target="YPL125W" />
+    <edge source="YDR361C" target="TORF19" />
+    <edge source="YDR361C" target="YER086W" />
+    <edge source="YDR361C" target="YMR021C" />
+    <edge source="YDR361C" target="YPL208W" />
+    <edge source="YDR361C" target="YJR056C" />
+    <edge source="YMR077C" target="YJR102C" />
+    <edge source="YMR077C" target="YPL002C" />
+    <edge source="YMR077C" target="YPL065W" />
+    <edge source="YMR077C" target="YLR417W" />
+    <edge source="YJR102C" target="YPL002C" />
+    <edge source="YJR102C" target="YLR417W" />
+    <edge source="YJR102C" target="YPL065W" />
+    <edge source="YJR102C" target="YDR132C" />
+    <edge source="YGR024C" target="YGR024C" />
+    <edge source="YNL204C" target="YDR100W" />
+    <edge source="YNL204C" target="YJL151C" />
+    <edge source="YDR100W" target="YPL218W" />
+    <edge source="YDR100W" target="YPL095C" />
+    <edge source="YDR100W" target="YML110C" />
+    <edge source="YDR100W" target="YPR174C" />
+    <edge source="YDR100W" target="YPL020C" />
+    <edge source="YDR100W" target="YAR027W" />
+    <edge source="YDR100W" target="YDR100W" />
+    <edge source="YDR100W" target="YGR177C" />
+    <edge source="YDR100W" target="YNL315C" />
+    <edge source="YDR100W" target="YJL104W" />
+    <edge source="YDR100W" target="YMR024W" />
+    <edge source="YDR100W" target="YER101C" />
+    <edge source="YDR100W" target="YGR223C" />
+    <edge source="YDR100W" target="YNL198C" />
+    <edge source="YDR100W" target="YHR105W" />
+    <edge source="YDR100W" target="YLR393W" />
+    <edge source="YDR100W" target="YDR479C" />
+    <edge source="YDR100W" target="YPL094C" />
+    <edge source="YDR100W" target="YDL164C" />
+    <edge source="YDR100W" target="YLR108C" />
+    <edge source="YDR100W" target="YML029W" />
+    <edge source="YDR100W" target="YPL100W" />
+    <edge source="YDR100W" target="YOR109W" />
+    <edge source="YDR100W" target="YKL003WA" />
+    <edge source="YDR100W" target="YMR079W" />
+    <edge source="YDR100W" target="YPL135W" />
+    <edge source="YDR100W" target="YDL120W" />
+    <edge source="YDR100W" target="YBL069W" />
+    <edge source="YDR100W" target="YBR261C" />
+    <edge source="YJL137C" target="YJL137C" />
+    <edge source="YJL137C" target="YLR258W" />
+    <edge source="YPR046W" target="YJR135C" />
+    <edge source="YPR046W" target="YCR106W" />
+    <edge source="YLR386W" target="YGR061C" />
+    <edge source="YLR386W" target="YPL268W" />
+    <edge source="YLR386W" target="YJR021C" />
+    <edge source="YLR386W" target="YLR386W" />
+    <edge source="YLR386W" target="YDR296W" />
+    <edge source="YLR386W" target="YDL044C" />
+    <edge source="YLR386W" target="YJL090C" />
+    <edge source="YLL057C" target="YLL057C" />
+    <edge source="YMR001C" target="YJL187C" />
+    <edge source="YMR001C" target="YJL019W" />
+    <edge source="YMR001C" target="YOR192CA" />
+    <edge source="YMR001C" target="YPR174C" />
+    <edge source="YJL187C" target="YPR082C" />
+    <edge source="YDR300C" target="YDR300C" />
+    <edge source="YHR022C" target="YDR448W" />
+    <edge source="YHR022C" target="YOR032C" />
+    <edge source="YCR060W" target="YHR034C" />
+    <edge source="YCR060W" target="YKL117W" />
+    <edge source="YKR068C" target="YOR115C" />
+    <edge source="YKR068C" target="YBR254C" />
+    <edge source="YKR068C" target="YLR328W" />
+    <edge source="YKR068C" target="YDR472W" />
+    <edge source="YOR115C" target="YML077W" />
+    <edge source="YMR004W" target="YMR004W" />
+    <edge source="YMR004W" target="YML051W" />
+    <edge source="YBR166C" target="YBR166C" />
+    <edge source="YPL135W" target="YDR229W" />
+    <edge source="YPL135W" target="YOL082W" />
+    <edge source="YPL135W" target="YDR448W" />
+    <edge source="YLR257W" target="YLR345W" />
+    <edge source="YLR345W" target="YAL032C" />
+    <edge source="YLR345W" target="YBR244W" />
+    <edge source="YLR345W" target="YJL155C" />
+    <edge source="YLR345W" target="YLR345W" />
+    <edge source="YLR345W" target="YLR321C" />
+    <edge source="YLR345W" target="YGR158C" />
+    <edge source="YLR345W" target="YIR015W" />
+    <edge source="YLR345W" target="YIR037W" />
+    <edge source="YOL129W" target="YAR027W" />
+    <edge source="YOL129W" target="YJR044C" />
+    <edge source="YAR027W" target="YAR027W" />
+    <edge source="YAR027W" target="YER087CA" />
+    <edge source="YAR027W" target="YMR071C" />
+    <edge source="YAR027W" target="YJR013W" />
+    <edge source="YAR027W" target="YPR159CA" />
+    <edge source="YAR027W" target="YML055W" />
+    <edge source="YAR027W" target="YDR411C" />
+    <edge source="YAR027W" target="YLR279W" />
+    <edge source="YAR027W" target="YAR028W" />
+    <edge source="YAR027W" target="YJR044C" />
+    <edge source="YAR027W" target="YNL219C" />
+    <edge source="YAR027W" target="YBR042C" />
+    <edge source="YAR027W" target="YPR113W" />
+    <edge source="YAR027W" target="YPL020C" />
+    <edge source="YAR027W" target="YLR350W" />
+    <edge source="YAR027W" target="YGL225W" />
+    <edge source="YAR027W" target="YJL097W" />
+    <edge source="YAR027W" target="YGL104C" />
+    <edge source="YAR027W" target="YJL117W" />
+    <edge source="YAR027W" target="YNL315C" />
+    <edge source="YAR027W" target="YNL263C" />
+    <edge source="YAR027W" target="YGR284C" />
+    <edge source="YAR027W" target="YEL042W" />
+    <edge source="YLR424W" target="YKR022C" />
+    <edge source="YLR424W" target="YLR423C" />
+    <edge source="YLR424W" target="YLR385C" />
+    <edge source="YLR424W" target="YJL110C" />
+    <edge source="YLR424W" target="YGR142W" />
+    <edge source="YLR424W" target="YGL090W" />
+    <edge source="YLR424W" target="YDR448W" />
+    <edge source="YLR424W" target="YGR029W" />
+    <edge source="YLR424W" target="YKR034W" />
+    <edge source="YLR424W" target="YMR316CB" />
+    <edge source="YER023W" target="YER023W" />
+    <edge source="YNL024C" target="YDR386W" />
+    <edge source="YDR284C" target="YDR284C" />
+    <edge source="YDR284C" target="YPL094C" />
+    <edge source="YDR284C" target="YIR038C" />
+    <edge source="YDR284C" target="YNL111C" />
+    <edge source="YDR284C" target="YPR071W" />
+    <edge source="YDR284C" target="YDR479C" />
+    <edge source="YMR312W" target="YHR187W" />
+    <edge source="YKL218C" target="YKL218C" />
+    <edge source="YBR176W" target="YBR176W" />
+    <edge source="YER081W" target="YER081W" />
+    <edge source="YER081W" target="YIL074C" />
+    <edge source="YER081W" target="YBR276C" />
+    <edge source="YER081W" target="YMR047C" />
+    <edge source="YPR110C" target="YNL113W" />
+    <edge source="YNL113W" target="YHL018W" />
+    <edge source="YNL113W" target="YGL090W" />
+    <edge source="YNL311C" target="YIL074C" />
+    <edge source="YNL311C" target="YKL001C" />
+    <edge source="YOL034W" target="YLR098C" />
+    <edge source="YOL034W" target="YOR284W" />
+    <edge source="YOL034W" target="YLR423C" />
+    <edge source="YOL034W" target="YPL070W" />
+    <edge source="YOL034W" target="YOL082W" />
+    <edge source="YOL034W" target="YDR510W" />
+    <edge source="YOL034W" target="YDL105W" />
+    <edge source="YOL034W" target="YER047C" />
+    <edge source="YOL034W" target="YPR105C" />
+    <edge source="YAL032C" target="YPL151C" />
+    <edge source="YAL032C" target="YLR423C" />
+    <edge source="YAL032C" target="YDR416W" />
+    <edge source="YAL032C" target="YDR532C" />
+    <edge source="YAL032C" target="YDR448W" />
+    <edge source="YAL032C" target="YJL112W" />
+    <edge source="YBR072W" target="YBR072W" />
+    <edge source="YBR072W" target="YBR261C" />
+    <edge source="YCL066W" target="YPL049C" />
+    <edge source="YCL066W" target="YDR480W" />
+    <edge source="YCL066W" target="YHR084W" />
+    <edge source="YPL049C" target="YDR480W" />
+    <edge source="YPL049C" target="YPL049C" />
+    <edge source="YPL049C" target="YIL105WA" />
+    <edge source="YPL049C" target="YGR268C" />
+    <edge source="YPL049C" target="YGR040W" />
+    <edge source="YPL049C" target="YER180C" />
+    <edge source="YPL049C" target="YBR261C" />
+    <edge source="YPL049C" target="YHR121W" />
+    <edge source="YPL049C" target="YPL031C" />
+    <edge source="YPL049C" target="YER188W" />
+    <edge source="YPL049C" target="YDL239C" />
+    <edge source="YPL049C" target="YKL189W" />
+    <edge source="YPL049C" target="YNL189W" />
+    <edge source="YPL049C" target="YPL070W" />
+    <edge source="YPL049C" target="YDL189W" />
+    <edge source="YPL049C" target="YML064C" />
+    <edge source="YPL049C" target="YHR084W" />
+    <edge source="YPL049C" target="YDR296W" />
+    <edge source="YPL049C" target="YPR082C" />
+    <edge source="YPL049C" target="YJR003C" />
+    <edge source="YPL049C" target="YGL181W" />
+    <edge source="YPL049C" target="YDL057W" />
+    <edge source="YPL049C" target="YDR212W" />
+    <edge source="YPL049C" target="YNL135C" />
+    <edge source="YPL049C" target="YPR017C" />
+    <edge source="YGL124C" target="YNL286W" />
+    <edge source="YGL124C" target="YBR131W" />
+    <edge source="YGL124C" target="YKL025C" />
+    <edge source="YNL286W" target="YMR288W" />
+    <edge source="YNL286W" target="YOR284W" />
+    <edge source="YNL286W" target="YLR132C" />
+    <edge source="YJL189W" target="YOR229W" />
+    <edge source="YJL189W" target="YKR048C" />
+    <edge source="YJL189W" target="YMR139W" />
+    <edge source="YOR229W" target="YOR229W" />
+    <edge source="YOR229W" target="YOR230W" />
+    <edge source="YOR229W" target="YOR283W" />
+    <edge source="YOR229W" target="YGR180C" />
+    <edge source="YOR229W" target="YCL059C" />
+    <edge source="YOR229W" target="YNL189W" />
+    <edge source="YDR480W" target="YDR480W" />
+    <edge source="YDR480W" target="YJL058C" />
+    <edge source="YDR480W" target="YDL189W" />
+    <edge source="YDR480W" target="YKL189W" />
+    <edge source="YDR480W" target="YHR121W" />
+    <edge source="YDR480W" target="YHR084W" />
+    <edge source="YDR480W" target="YGR040W" />
+    <edge source="YDR480W" target="YNL189W" />
+    <edge source="YDR480W" target="YJR003C" />
+    <edge source="YER087CA" target="YIR038C" />
+    <edge source="YER087CA" target="YIR033W" />
+    <edge source="YER087CA" target="YDR479C" />
+    <edge source="YER087CA" target="YLR404W" />
+    <edge source="YLR177W" target="YDR099W" />
+    <edge source="YLR177W" target="YER177W" />
+    <edge source="YLR177W" target="YGL122C" />
+    <edge source="YDR099W" target="YKL168C" />
+    <edge source="YDR099W" target="YPL267W" />
+    <edge source="YOR265W" target="YJR091C" />
+    <edge source="YOR265W" target="YFL037W" />
+    <edge source="YDL006W" target="YDR162C" />
+    <edge source="YDL006W" target="YBR222C" />
+    <edge source="YPL020C" target="YMR071C" />
+    <edge source="YPL020C" target="YDR479C" />
+    <edge source="YPL020C" target="YGL053W" />
+    <edge source="YPL020C" target="YCR007C" />
+    <edge source="YPL020C" target="YOL107W" />
+    <edge source="YMR071C" target="YGR177C" />
+    <edge source="YMR071C" target="YML110C" />
+    <edge source="YMR071C" target="YDR479C" />
+    <edge source="YMR071C" target="YNL315C" />
+    <edge source="YMR071C" target="YJL104W" />
+    <edge source="YMR071C" target="YER101C" />
+    <edge source="YMR071C" target="YDL120W" />
+    <edge source="YMR300C" target="YMR300C" />
+    <edge source="YDL239C" target="YLR098C" />
+    <edge source="YDL239C" target="YOR380W" />
+    <edge source="YDL239C" target="YLR423C" />
+    <edge source="YDL239C" target="YOR304CA" />
+    <edge source="YDL239C" target="YPL070W" />
+    <edge source="YDL239C" target="YKL103C" />
+    <edge source="YDL239C" target="YDR520C" />
+    <edge source="YDL239C" target="YKR034W" />
+    <edge source="YLR098C" target="YBR261C" />
+    <edge source="YLR098C" target="YPR049C" />
+    <edge source="YLR098C" target="YDL076C" />
+    <edge source="YLR098C" target="YJL090C" />
+    <edge source="YLR098C" target="YER015W" />
+    <edge source="YLR098C" target="YDL057W" />
+    <edge source="YLR098C" target="YPL149W" />
+    <edge source="YDR479C" target="YPR113W" />
+    <edge source="YDR479C" target="YMR024W" />
+    <edge source="YDR479C" target="YJL097W" />
+    <edge source="YDR479C" target="YLL014W" />
+    <edge source="YDR479C" target="YGL065C" />
+    <edge source="YDR479C" target="YJL117W" />
+    <edge source="YDR479C" target="YGR149W" />
+    <edge source="YDR479C" target="YJL134W" />
+    <edge source="YDR479C" target="YOL003C" />
+    <edge source="YDR479C" target="YNR075W" />
+    <edge source="YDR479C" target="YCR021C" />
+    <edge source="YDR479C" target="YNL263C" />
+    <edge source="YDR479C" target="YEL042W" />
+    <edge source="YDR479C" target="YBL091CA" />
+    <edge source="YDR479C" target="YDR411C" />
+    <edge source="YDR479C" target="YHL031C" />
+    <edge source="YDR479C" target="YJL183W" />
+    <edge source="YDR479C" target="YML125C" />
+    <edge source="YDR479C" target="YLR350W" />
+    <edge source="YDR479C" target="YDR476C" />
+    <edge source="YDR479C" target="YML055W" />
+    <edge source="YDR479C" target="YGR284C" />
+    <edge source="YDR479C" target="YGL104C" />
+    <edge source="YDR479C" target="YBR241C" />
+    <edge source="YDR479C" target="YOL065C" />
+    <edge source="YDR479C" target="YLR036C" />
+    <edge source="YDR479C" target="YGL053W" />
+    <edge source="YDR479C" target="YOR377W" />
+    <edge source="YDR479C" target="YPR159CA" />
+    <edge source="YDR479C" target="YLR268W" />
+    <edge source="YDR479C" target="YBL020W" />
+    <edge source="YMR289W" target="YOL083W" />
+    <edge source="YOL083W" target="YBL078C" />
+    <edge source="YOL083W" target="YGL156W" />
+    <edge source="YOL083W" target="YDR171W" />
+    <edge source="YOL083W" target="YCR027C" />
+    <edge source="YPR174C" target="YJL019W" />
+    <edge source="YPR174C" target="YGL053W" />
+    <edge source="YPR174C" target="YER026C" />
+    <edge source="YPR174C" target="YIR033W" />
+    <edge source="YJL019W" target="YFR027W" />
+    <edge source="YJL019W" target="YJL019W" />
+    <edge source="YJL019W" target="YOL012C" />
+    <edge source="YJL019W" target="YDR476C" />
+    <edge source="YJL019W" target="YDR498C" />
+    <edge source="YJL019W" target="YIL085C" />
+    <edge source="YJL019W" target="YJR068W" />
+    <edge source="YJL019W" target="YDR411C" />
+    <edge source="YJL019W" target="YNL029C" />
+    <edge source="YJL019W" target="YOR288C" />
+    <edge source="YJL019W" target="YPR113W" />
+    <edge source="YEL051W" target="YOR174W" />
+    <edge source="YEL051W" target="YGR120C" />
+    <edge source="YEL051W" target="YDR423C" />
+    <edge source="YOR174W" target="YNL086W" />
+    <edge source="YOR174W" target="YIL144W" />
+    <edge source="YOR174W" target="YAL036C" />
+    <edge source="YOR174W" target="YLR385C" />
+    <edge source="YOR174W" target="YBR150C" />
+    <edge source="YDL144C" target="YDL144C" />
+    <edge source="YNL086W" target="YKL061W" />
+    <edge source="YNL086W" target="YGR120C" />
+    <edge source="YGL208W" target="YDR477W" />
+    <edge source="YGL208W" target="YGL115W" />
+    <edge source="YDR477W" target="YGL115W" />
+    <edge source="YGL155W" target="YKL019W" />
+    <edge source="YKL019W" target="YOR380W" />
+    <edge source="YKL019W" target="YOL135C" />
+    <edge source="YKL019W" target="YDL090C" />
+    <edge source="YKL019W" target="YKL159C" />
+    <edge source="YNR051C" target="YER151C" />
+    <edge source="YOR026W" target="YGR188C" />
+    <edge source="YOR026W" target="YJL013C" />
+    <edge source="YNL001W" target="YKR084C" />
+    <edge source="YGL238W" target="YNL189W" />
+    <edge source="YGL238W" target="YOR185C" />
+    <edge source="YGL238W" target="YLR293C" />
+    <edge source="YNL189W" target="YOR380W" />
+    <edge source="YNL189W" target="YGL037C" />
+    <edge source="YNL189W" target="YJR010W" />
+    <edge source="YNL189W" target="YHR025W" />
+    <edge source="YNL189W" target="YFL039C" />
+    <edge source="YNL189W" target="YHR113W" />
+    <edge source="YNL189W" target="YPL088W" />
+    <edge source="YNL189W" target="YDR510W" />
+    <edge source="YNL189W" target="YLR245C" />
+    <edge source="YNL189W" target="YGR144W" />
+    <edge source="YNL189W" target="YFR047C" />
+    <edge source="YNL189W" target="YOR095C" />
+    <edge source="YNL189W" target="YDR256C" />
+    <edge source="YNL189W" target="YBR080C" />
+    <edge source="YGR075C" target="YML051W" />
+    <edge source="YGR075C" target="YBR152W" />
+    <edge source="YML051W" target="YGR146C" />
+    <edge source="YML051W" target="YOR359W" />
+    <edge source="YML051W" target="YOR197W" />
+    <edge source="YML051W" target="YOR355W" />
+    <edge source="YML051W" target="YCR065W" />
+    <edge source="YML051W" target="YLR206W" />
+    <edge source="YML051W" target="YDR123C" />
+    <edge source="YML051W" target="YNR010W" />
+    <edge source="YML051W" target="YMR223W" />
+    <edge source="YML051W" target="YDR146C" />
+    <edge source="YML051W" target="YBL093C" />
+    <edge source="YML051W" target="YDL106C" />
+    <edge source="YML051W" target="YKL171W" />
+    <edge source="YML051W" target="YDL005C" />
+    <edge source="YML051W" target="YHL012W" />
+    <edge source="YML051W" target="YKL135C" />
+    <edge source="YML051W" target="YOL148C" />
+    <edge source="YML051W" target="YER130C" />
+    <edge source="YML051W" target="YDR383C" />
+    <edge source="YML051W" target="YDR273W" />
+    <edge source="YML051W" target="YDR308C" />
+    <edge source="YML051W" target="YFL010C" />
+    <edge source="YML051W" target="YOL067C" />
+    <edge source="YML051W" target="YOR370C" />
+    <edge source="YML051W" target="YPL047W" />
+    <edge source="YML051W" target="YKL015W" />
+    <edge source="YGL252C" target="YGL252C" />
+    <edge source="YBL023C" target="YMR314W" />
+    <edge source="YBL023C" target="YLR096W" />
+    <edge source="YBL023C" target="YPR019W" />
+    <edge source="YBL023C" target="YDR473C" />
+    <edge source="YBL023C" target="YDR122W" />
+    <edge source="YBL023C" target="YPL144W" />
+    <edge source="YIL074C" target="YIL074C" />
+    <edge source="YIL074C" target="YBR261C" />
+    <edge source="YKL025C" target="YCR020CA" />
+    <edge source="YKL025C" target="YGL094C" />
+    <edge source="YKL025C" target="YER018C" />
+    <edge source="YJL112W" target="YIL152W" />
+    <edge source="YJL112W" target="YGL115W" />
+    <edge source="YJL112W" target="YAL021C" />
+    <edge source="YJL112W" target="YHL004W" />
+    <edge source="YJL112W" target="YIL065C" />
+    <edge source="YJL112W" target="YJR046W" />
+    <edge source="YJL112W" target="YJR003C" />
+    <edge source="YJL112W" target="YKL189W" />
+    <edge source="YJL112W" target="YJL058C" />
+    <edge source="YBR080C" target="YJL030W" />
+    <edge source="YBR080C" target="YBR080C" />
+    <edge source="YBR080C" target="YBR261C" />
+    <edge source="YBR080C" target="YNL288W" />
+    <edge source="YBR080C" target="YPL070W" />
+    <edge source="YBR080C" target="YIL046W" />
+    <edge source="YLR321C" target="YPL070W" />
+    <edge source="YLR321C" target="YNR046W" />
+    <edge source="YOR192CA" target="YOR192CA" />
+    <edge source="YOR192CA" target="YBR261C" />
+    <edge source="YIL144W" target="YGR120C" />
+    <edge source="YIL144W" target="YDR532C" />
+    <edge source="YIL144W" target="YLR423C" />
+    <edge source="YIL144W" target="YOL069W" />
+    <edge source="YJR011C" target="YGR134W" />
+    <edge source="YJR011C" target="YLR368W" />
+    <edge source="YLR120WA" target="YPL208W" />
+    <edge source="YPL208W" target="YHR072WA" />
+    <edge source="YGR268C" target="YER125W" />
+    <edge source="YGR268C" target="YOR124C" />
+    <edge source="YGR268C" target="YFR024CA" />
+    <edge source="YGR268C" target="YGR268C" />
+    <edge source="YGR268C" target="YOR042W" />
+    <edge source="YGR268C" target="YDR330W" />
+    <edge source="YGR268C" target="YLR206W" />
+    <edge source="YER125W" target="YCR009C" />
+    <edge source="YER125W" target="YOR385W" />
+    <edge source="YER125W" target="YLR392C" />
+    <edge source="YER125W" target="YMR257C" />
+    <edge source="YER125W" target="YDR296W" />
+    <edge source="YER125W" target="YLR167W" />
+    <edge source="YER125W" target="YMR316W" />
+    <edge source="YER125W" target="YOR322C" />
+    <edge source="YER125W" target="YHR131C" />
+    <edge source="YER125W" target="YJL025W" />
+    <edge source="YER125W" target="YMR275C" />
+    <edge source="YER125W" target="YBR182C" />
+    <edge source="YJL218W" target="YBR261C" />
+    <edge source="YJL218W" target="YDR132C" />
+    <edge source="YJL218W" target="YPL070W" />
+    <edge source="YJL218W" target="YJR121W" />
+    <edge source="YNL044W" target="YLR026C" />
+    <edge source="YNL044W" target="YNL315C" />
+    <edge source="YNL044W" target="YNL263C" />
+    <edge source="YNL044W" target="YHR105W" />
+    <edge source="YNL044W" target="YBR261C" />
+    <edge source="YNL044W" target="YGR177C" />
+    <edge source="YNL044W" target="YPL070W" />
+    <edge source="YNL044W" target="YNL044W" />
+    <edge source="YNL044W" target="YDR244W" />
+    <edge source="YNL044W" target="YDL164C" />
+    <edge source="YHR167W" target="YLR423C" />
+    <edge source="YHR167W" target="YNL041C" />
+    <edge source="YHR167W" target="YDL005C" />
+    <edge source="YHR167W" target="YJL011C" />
+    <edge source="YHR167W" target="YML062C" />
+    <edge source="YLR423C" target="YJL061W" />
+    <edge source="YLR423C" target="YIR017C" />
+    <edge source="YLR423C" target="YDR240C" />
+    <edge source="YLR423C" target="YDR473C" />
+    <edge source="YLR423C" target="YIL084C" />
+    <edge source="YLR423C" target="YDR357C" />
+    <edge source="YLR423C" target="YJR101W" />
+    <edge source="YLR423C" target="YLL049W" />
+    <edge source="YLR423C" target="YML041C" />
+    <edge source="YLR423C" target="YOR158W" />
+    <edge source="YLR423C" target="YPL173W" />
+    <edge source="YLR423C" target="YKL074C" />
+    <edge source="YLR423C" target="YIL079C" />
+    <edge source="YLR423C" target="YDR085C" />
+    <edge source="YLR423C" target="YIL092W" />
+    <edge source="YLR423C" target="YML043C" />
+    <edge source="YLR423C" target="YBR102C" />
+    <edge source="YLR423C" target="YLR132C" />
+    <edge source="YLR423C" target="YHR114W" />
+    <edge source="YLR423C" target="YML062C" />
+    <edge source="YLR423C" target="YGR119C" />
+    <edge source="YLR423C" target="YPL077C" />
+    <edge source="YLR423C" target="YJL048C" />
+    <edge source="YLR423C" target="YLR089C" />
+    <edge source="YLR423C" target="YIL152W" />
+    <edge source="YLR423C" target="YOR226C" />
+    <edge source="YLR423C" target="YHL004W" />
+    <edge source="YLR423C" target="YDR138W" />
+    <edge source="YLR423C" target="YJR003C" />
+    <edge source="YLR423C" target="YMR213W" />
+    <edge source="YLR423C" target="YNL288W" />
+    <edge source="YLR423C" target="YAL036C" />
+    <edge source="YLR423C" target="YGR261C" />
+    <edge source="YLR423C" target="YMR059W" />
+    <edge source="YLR423C" target="YBR123C" />
+    <edge source="YLR423C" target="YGR113W" />
+    <edge source="YLR423C" target="YDR374C" />
+    <edge source="YLR423C" target="YGL086W" />
+    <edge source="YLR423C" target="YBR182C" />
+    <edge source="YLR423C" target="YKL189W" />
+    <edge source="YLR423C" target="YJL025W" />
+    <edge source="YLR423C" target="YOR117W" />
+    <edge source="YLR423C" target="YDR159W" />
+    <edge source="YLR423C" target="YJL058C" />
+    <edge source="YLR423C" target="YIL105C" />
+    <edge source="YLR423C" target="YLR423C" />
+    <edge source="YLR423C" target="YER092W" />
+    <edge source="YLR423C" target="YIL153W" />
+    <edge source="YLR423C" target="YPL268W" />
+    <edge source="YLR423C" target="YOR353C" />
+    <edge source="YLR423C" target="YLR439W" />
+    <edge source="YOR380W" target="YPL031C" />
+    <edge source="YOR380W" target="YGR261C" />
+    <edge source="YOR380W" target="YJL025W" />
+    <edge source="YOR380W" target="YMR314W" />
+    <edge source="YOR380W" target="YMR308C" />
+    <edge source="YEL053C" target="YPR051W" />
+    <edge source="YEL053C" target="YOR032C" />
+    <edge source="YJL061W" target="YJL041W" />
+    <edge source="YNR011C" target="YNL041C" />
+    <edge source="YNL041C" target="YML071C" />
+    <edge source="YNL041C" target="YOR304CA" />
+    <edge source="YNL041C" target="YLR262C" />
+    <edge source="YNL041C" target="YFL038C" />
+    <edge source="YLR315W" target="YDR383C" />
+    <edge source="YLR315W" target="YGR179C" />
+    <edge source="YGL115W" target="YCL046W" />
+    <edge source="YGL115W" target="YPL149W" />
+    <edge source="YGL115W" target="YNL153C" />
+    <edge source="YDR473C" target="YBR233W" />
+    <edge source="YDR473C" target="YPL004C" />
+    <edge source="YDR473C" target="YPR178W" />
+    <edge source="YPL018W" target="YDR132C" />
+    <edge source="YDR132C" target="YHL009C" />
+    <edge source="YDR132C" target="YFL009W" />
+    <edge source="YDR132C" target="YDR132C" />
+    <edge source="YLR442C" target="YGL175C" />
+    <edge source="YLR442C" target="YGL250W" />
+    <edge source="YLR442C" target="YJR052W" />
+    <edge source="YGL175C" target="YJR058C" />
+    <edge source="YLR175W" target="YNL124W" />
+    <edge source="YLR175W" target="YDL208W" />
+    <edge source="YNL124W" target="YDL208W" />
+    <edge source="YNL124W" target="YNL124W" />
+    <edge source="YNL124W" target="YHR072WA" />
+    <edge source="YNL124W" target="YGL181W" />
+    <edge source="YLR015W" target="YDR469W" />
+    <edge source="YER146W" target="YLR438CA" />
+    <edge source="YER146W" target="YDR378C" />
+    <edge source="YER146W" target="YNL147W" />
+    <edge source="YER146W" target="YJL124C" />
+    <edge source="YLR438CA" target="YBL026W" />
+    <edge source="YLR438CA" target="YDR378C" />
+    <edge source="YLR438CA" target="YJR022W" />
+    <edge source="YLR438CA" target="YNL147W" />
+    <edge source="YLR438CA" target="YOR159C" />
+    <edge source="YLR438CA" target="YER112W" />
+    <edge source="YLR438CA" target="YLR438CA" />
+    <edge source="YLR438CA" target="YJL124C" />
+    <edge source="YLR438CA" target="YBR261C" />
+    <edge source="YHR076W" target="YMR079W" />
+    <edge source="YMR079W" target="YCR007C" />
+    <edge source="YMR079W" target="YPR113W" />
+    <edge source="YMR079W" target="YGL053W" />
+    <edge source="YMR079W" target="YJL151C" />
+    <edge source="YMR079W" target="YER118C" />
+    <edge source="YNL094W" target="YAL049C" />
+    <edge source="YNL094W" target="YNL025C" />
+    <edge source="YNL094W" target="YDR388W" />
+    <edge source="YNL094W" target="YBR260C" />
+    <edge source="YNL094W" target="YOR043W" />
+    <edge source="YNL094W" target="YFR024CA" />
+    <edge source="YNL094W" target="YHR114W" />
+    <edge source="YNL025C" target="YPL031C" />
+    <edge source="YNL025C" target="YDL108W" />
+    <edge source="YDR388W" target="YGL181W" />
+    <edge source="YDR388W" target="YPL077C" />
+    <edge source="YDR388W" target="YOR181W" />
+    <edge source="YDR388W" target="YCR009C" />
+    <edge source="YDR388W" target="YGL090W" />
+    <edge source="YDR388W" target="YGL060W" />
+    <edge source="YCR083W" target="YDR448W" />
+    <edge source="YOR007C" target="YOL111C" />
+    <edge source="YOR007C" target="YOR007C" />
+    <edge source="YNL138W" target="YFL039C" />
+    <edge source="YFL039C" target="YFL039C" />
+    <edge source="YFL039C" target="YMR092C" />
+    <edge source="YFL039C" target="YDR510W" />
+    <edge source="YFL039C" target="YGL015C" />
+    <edge source="YFL039C" target="YOR304CA" />
+    <edge source="YGL181W" target="YMR182C" />
+    <edge source="YGL181W" target="YIL122W" />
+    <edge source="YGL181W" target="YGR241C" />
+    <edge source="YGL181W" target="YHR161C" />
+    <edge source="YGL181W" target="YGR178C" />
+    <edge source="YGL181W" target="YFR024CA" />
+    <edge source="YKL191W" target="YIL103W" />
+    <edge source="YDL057W" target="YJL058C" />
+    <edge source="YJL058C" target="YJL075C" />
+    <edge source="YJL058C" target="YDR448W" />
+    <edge source="YJL058C" target="YJL058C" />
+    <edge source="YJL058C" target="YER052C" />
+    <edge source="YJL058C" target="YIR025W" />
+    <edge source="YPL077C" target="YDR489W" />
+    <edge source="YPL077C" target="YGR120C" />
+    <edge source="YPL077C" target="YHR161C" />
+    <edge source="YPL077C" target="YGR241C" />
+    <edge source="YPL077C" target="YDR448W" />
+    <edge source="YNR034W" target="YOR178C" />
+    <edge source="YNR034W" target="YLR273C" />
+    <edge source="YNR034W" target="YDL070W" />
+    <edge source="YOR178C" target="YIL045W" />
+    <edge source="YLR021W" target="YPL144W" />
+    <edge source="YLR021W" target="YHR113W" />
+    <edge source="YML110C" target="YHR111W" />
+    <edge source="YML110C" target="YNL263C" />
+    <edge source="YDR142C" target="YDL022W" />
+    <edge source="YDR142C" target="YMR095C" />
+    <edge source="YDR142C" target="YGR239C" />
+    <edge source="YDR142C" target="YHR160C" />
+    <edge source="YDR142C" target="YCL056C" />
+    <edge source="YDR142C" target="YIL160C" />
+    <edge source="YPR113W" target="YML029W" />
+    <edge source="YPR113W" target="YBR261C" />
+    <edge source="YPR113W" target="YAR033W" />
+    <edge source="YPR113W" target="YLR072W" />
+    <edge source="YPR113W" target="YIR038C" />
+    <edge source="YGL187C" target="YML042W" />
+    <edge source="YGL187C" target="YBR133C" />
+    <edge source="YGL187C" target="YDL066W" />
+    <edge source="YML042W" target="YBR261C" />
+    <edge source="YML042W" target="YPL070W" />
+    <edge source="YML042W" target="YDR244W" />
+    <edge source="YML042W" target="YER056CA" />
+    <edge source="YML042W" target="YML042W" />
+    <edge source="YBR260C" target="YMR032W" />
+    <edge source="YBR260C" target="YDR239C" />
+    <edge source="YBR260C" target="YER144C" />
+    <edge source="YDR416W" target="YGR129W" />
+    <edge source="YDR416W" target="YBR188C" />
+    <edge source="YDR416W" target="YGR195W" />
+    <edge source="YDR416W" target="YJR050W" />
+    <edge source="YDR416W" target="YHL004W" />
+    <edge source="YDR416W" target="YHR184W" />
+    <edge source="YDR416W" target="YKL098W" />
+    <edge source="YBR107C" target="YDR489W" />
+    <edge source="YBR107C" target="YHR113W" />
+    <edge source="YBR107C" target="YGL071W" />
+    <edge source="YBR107C" target="YDR421W" />
+    <edge source="YER182W" target="YKL142W" />
+    <edge source="YKL142W" target="YOL059W" />
+    <edge source="YKL142W" target="YMR210W" />
+    <edge source="YKL142W" target="YKL157W" />
+    <edge source="YKL142W" target="YNL063W" />
+    <edge source="YKL142W" target="YPL004C" />
+    <edge source="YKL142W" target="YKL142W" />
+    <edge source="YKL142W" target="YGR086C" />
+    <edge source="YKL142W" target="YDR115W" />
+    <edge source="YKL142W" target="YDR036C" />
+    <edge source="YGR261C" target="YOR284W" />
+    <edge source="YGR261C" target="YDR448W" />
+    <edge source="YGR261C" target="YNL199C" />
+    <edge source="YGR261C" target="YDR520C" />
+    <edge source="YOR284W" target="YOR284W" />
+    <edge source="YOR284W" target="YCR088W" />
+    <edge source="YOR284W" target="YHL004W" />
+    <edge source="YOR284W" target="YNL288W" />
+    <edge source="YOR284W" target="YDR212W" />
+    <edge source="YOR284W" target="YML064C" />
+    <edge source="YOR284W" target="YJL025W" />
+    <edge source="YOR284W" target="YBR261C" />
+    <edge source="YBR077C" target="YGR201C" />
+    <edge source="YGR082W" target="YGR120C" />
+    <edge source="YGR120C" target="YPR191W" />
+    <edge source="YGR120C" target="YHL004W" />
+    <edge source="YGR120C" target="YOR158W" />
+    <edge source="YGR120C" target="YER157W" />
+    <edge source="YGR120C" target="YGR120C" />
+    <edge source="YOR124C" target="YOR138C" />
+    <edge source="YOR124C" target="YKL192C" />
+    <edge source="YOR124C" target="YMR048W" />
+    <edge source="YNL107W" target="YIL119C" />
+    <edge source="YNL107W" target="YKL103C" />
+    <edge source="YIL119C" target="YCR020CA" />
+    <edge source="YIL119C" target="YGR203W" />
+    <edge source="YBL026W" target="YGR158C" />
+    <edge source="YOR160W" target="YOR185C" />
+    <edge source="YOR160W" target="YLR293C" />
+    <edge source="YOR160W" target="YER086W" />
+    <edge source="YOR160W" target="YPL088W" />
+    <edge source="YOR160W" target="YOR095C" />
+    <edge source="YOR185C" target="YPL125W" />
+    <edge source="YOR185C" target="YMR308C" />
+    <edge source="YBR252W" target="YBR252W" />
+    <edge source="YPL125W" target="YLR293C" />
+    <edge source="YPL125W" target="YKR059W" />
+    <edge source="YPL125W" target="YJL138C" />
+    <edge source="YPL125W" target="YPR160W" />
+    <edge source="YPL125W" target="YNL249C" />
+    <edge source="YPL125W" target="YPL088W" />
+    <edge source="YIR032C" target="YIR032C" />
+    <edge source="YNL329C" target="YDL166C" />
+    <edge source="YNL329C" target="YKL197C" />
+    <edge source="YDL166C" target="YER047C" />
+    <edge source="YER177W" target="YKL168C" />
+    <edge source="YAL034WA" target="YJR112W" />
+    <edge source="YKL159C" target="YBR247C" />
+    <edge source="YMR308C" target="YLR293C" />
+    <edge source="YMR308C" target="YHR113W" />
+    <edge source="YMR308C" target="YER086W" />
+    <edge source="YMR308C" target="YKR034W" />
+    <edge source="YMR308C" target="YPL088W" />
+    <edge source="YML100W" target="YBR126C" />
+    <edge source="YBR126C" target="YBR126C" />
+    <edge source="YBR126C" target="YMR261C" />
+    <edge source="YNR046W" target="YDR140W" />
+    <edge source="YBR261C" target="YGL037C" />
+    <edge source="YBR261C" target="YBR233W" />
+    <edge source="YBR261C" target="YER086W" />
+    <edge source="YBR261C" target="YDR256C" />
+    <edge source="YBR261C" target="YLR245C" />
+    <edge source="YBR261C" target="YMR095C" />
+    <edge source="YBR261C" target="YPL088W" />
+    <edge source="YBR261C" target="YOR108W" />
+    <edge source="YBR261C" target="YHR113W" />
+    <edge source="YBR261C" target="YMR021C" />
+    <edge source="YBR261C" target="YLL001W" />
+    <edge source="YBR261C" target="YOR095C" />
+    <edge source="YBR261C" target="YHR074W" />
+    <edge source="YBR261C" target="YHR111W" />
+    <edge source="YBR261C" target="YGR088W" />
+    <edge source="YBR261C" target="YBR186W" />
+    <edge source="YBR261C" target="YHL018W" />
+    <edge source="YBR261C" target="YDR032C" />
+    <edge source="YBR261C" target="YFL059W" />
+    <edge source="YBR261C" target="YKL151C" />
+    <edge source="YBR261C" target="YOL143C" />
+    <edge source="YBR261C" target="YPL069C" />
+    <edge source="YBR261C" target="YCR007C" />
+    <edge source="YBR261C" target="YNL239W" />
+    <edge source="YBR261C" target="YJL151C" />
+    <edge source="YAL046C" target="YDR098C" />
+    <edge source="YAL046C" target="YER174C" />
+    <edge source="YAL046C" target="YKR034W" />
+    <edge source="YDR098C" target="YAL044WA" />
+    <edge source="YPL124W" target="YPL124W" />
+    <edge source="YJR013W" target="YPL094C" />
+    <edge source="YDL190C" target="YBR170C" />
+    <edge source="YDL190C" target="YFL044C" />
+    <edge source="YDL190C" target="YBL058W" />
+    <edge source="YDL190C" target="YMR276W" />
+    <edge source="YDL190C" target="YDL126C" />
+    <edge source="YDL190C" target="YBR273C" />
+    <edge source="YMR294W" target="YHR129C" />
+    <edge source="YMR294W" target="YLL049W" />
+    <edge source="YMR294W" target="YPL174C" />
+    <edge source="YHR129C" target="YHR129C" />
+    <edge source="YHR129C" target="YPL070W" />
+    <edge source="YHR129C" target="YDR488C" />
+    <edge source="YNL056W" target="YNL032W" />
+    <edge source="YNL056W" target="YNL099C" />
+    <edge source="YNL032W" target="YNL099C" />
+    <edge source="YLR440C" target="YNL258C" />
+    <edge source="YNL258C" target="YGL145W" />
+    <edge source="YER128W" target="YLR181C" />
+    <edge source="YER128W" target="YPR173C" />
+    <edge source="YLR181C" target="YDR486C" />
+    <edge source="YLR181C" target="YPR173C" />
+    <edge source="YLR026C" target="YDR189W" />
+    <edge source="YLR254C" target="YOR269W" />
+    <edge source="YOR269W" target="YOR269W" />
+    <edge source="YGR177C" target="YML011C" />
+    <edge source="YGR177C" target="YNL263C" />
+    <edge source="YGR177C" target="YGL053W" />
+    <edge source="YNL315C" target="YER118C" />
+    <edge source="YNL315C" target="YGL053W" />
+    <edge source="YJL104W" target="YOL082W" />
+    <edge source="YMR024W" target="YGR125W" />
+    <edge source="YDR173C" target="YMR042W" />
+    <edge source="YDR173C" target="YMR043W" />
+    <edge source="YIL039W" target="YIR038C" />
+    <edge source="YIR038C" target="YJL117W" />
+    <edge source="YIR038C" target="YNL219C" />
+    <edge source="YIR038C" target="YJR075W" />
+    <edge source="YIR038C" target="YJR010CA" />
+    <edge source="YIR038C" target="YBR241C" />
+    <edge source="YIR038C" target="YNL111C" />
+    <edge source="YIR038C" target="YIR038C" />
+    <edge source="YIR038C" target="YGL225W" />
+    <edge source="YIR038C" target="YPL053C" />
+    <edge source="YIR038C" target="YPR159CA" />
+    <edge source="YIR038C" target="YML055W" />
+    <edge source="YIR038C" target="YKL008C" />
+    <edge source="YIR038C" target="YCR068W" />
+    <edge source="YIR038C" target="YBR029C" />
+    <edge source="YIR038C" target="YOL126C" />
+    <edge source="YIR038C" target="YNL263C" />
+    <edge source="YIR038C" target="YHR140W" />
+    <edge source="YIR038C" target="YDL015C" />
+    <edge source="YIR038C" target="YJR118C" />
+    <edge source="YIR038C" target="YEL042W" />
+    <edge source="YIR038C" target="YLR268W" />
+    <edge source="YIR038C" target="YHR096C" />
+    <edge source="YIR038C" target="YGR038W" />
+    <edge source="YIR038C" target="YBR243C" />
+    <edge source="YIR038C" target="YIL124W" />
+    <edge source="YIR038C" target="YBR126WA" />
+    <edge source="YIR038C" target="YNR030W" />
+    <edge source="YIR038C" target="YGL104C" />
+    <edge source="YIR038C" target="YHR211W" />
+    <edge source="YIR038C" target="YOR321W" />
+    <edge source="YIR038C" target="YHR026W" />
+    <edge source="YIR038C" target="YOL018C" />
+    <edge source="YIR038C" target="YJL183W" />
+    <edge source="YIR038C" target="YML038C" />
+    <edge source="YIR038C" target="YJL097W" />
+    <edge source="YIR038C" target="YLL014W" />
+    <edge source="YIR038C" target="YJR073C" />
+    <edge source="YIR038C" target="YBL091CA" />
+    <edge source="YIR038C" target="YML125C" />
+    <edge source="YIR038C" target="YDR476C" />
+    <edge source="YIR038C" target="YGR121C" />
+    <edge source="YIR038C" target="YHR123W" />
+    <edge source="YIR038C" target="YGL054C" />
+    <edge source="YIR038C" target="YBL020W" />
+    <edge source="YIR038C" target="YOL003C" />
+    <edge source="YIR038C" target="YBR205W" />
+    <edge source="YIR038C" target="YNL217W" />
+    <edge source="YGL044C" target="YMR061W" />
+    <edge source="YMR061W" target="YBR103W" />
+    <edge source="YMR021C" target="YMR021C" />
+    <edge source="YMR021C" target="YGR142W" />
+    <edge source="YMR021C" target="YJR039W" />
+    <edge source="YOL059W" target="YKR048C" />
+    <edge source="YOL059W" target="YMR139W" />
+    <edge source="YDR357C" target="YGL079W" />
+    <edge source="YHR193C" target="YPL037C" />
+    <edge source="YHR193C" target="YLR146C" />
+    <edge source="YHR193C" target="YDR510W" />
+    <edge source="YNL249C" target="YNL249C" />
+    <edge source="YNL249C" target="YAL044WA" />
+    <edge source="YDR045C" target="YIL122W" />
+    <edge source="YDR045C" target="YDR448W" />
+    <edge source="YIL122W" target="YPL031C" />
+    <edge source="YIL122W" target="YJL030W" />
+    <edge source="YIL122W" target="YHR161C" />
+    <edge source="YIL122W" target="YIL122W" />
+    <edge source="YIL122W" target="YDL189W" />
+    <edge source="YML041C" target="YDR448W" />
+    <edge source="YML071C" target="YGL223C" />
+    <edge source="YDR532C" target="YLR031W" />
+    <edge source="YFL010C" target="YMR276W" />
+    <edge source="YPL149W" target="YMR159C" />
+    <edge source="YPL149W" target="YIL033C" />
+    <edge source="YMR159C" target="YMR159C" />
+    <edge source="YOL143C" target="YOL143C" />
+    <edge source="YLR082C" target="YLR082C" />
+    <edge source="YLR082C" target="YGL250W" />
+    <edge source="YJL030W" target="YHR113W" />
+    <edge source="YJL030W" target="YOL116W" />
+    <edge source="YLR409C" target="YJL069C" />
+    <edge source="YER184C" target="YER184C" />
+    <edge source="YER184C" target="YCR051W" />
+    <edge source="YOR276W" target="YOL139C" />
+    <edge source="YML035C" target="YML035C" />
+    <edge source="YML035C" target="YBR284W" />
+    <edge source="YML035C" target="YJL070C" />
+    <edge source="YML035C" target="YPL070W" />
+    <edge source="YPR108W" target="YER021W" />
+    <edge source="YDL108W" target="YGL134W" />
+    <edge source="YGL134W" target="YPL031C" />
+    <edge source="YGR040W" target="YHR084W" />
+    <edge source="YJL110C" target="YDR520C" />
+    <edge source="YJL110C" target="YGR099W" />
+    <edge source="YJL110C" target="YNL021W" />
+    <edge source="YDR520C" target="YKR034W" />
+    <edge source="YDR520C" target="YJR046W" />
+    <edge source="YDR520C" target="YOL116W" />
+    <edge source="YDR520C" target="YDR520C" />
+    <edge source="YOR250C" target="YKL020C" />
+    <edge source="YPR085C" target="YKL033W" />
+    <edge source="YKL033W" target="YJR136C" />
+    <edge source="YKL033W" target="YGR099W" />
+    <edge source="YLR132C" target="YLL036C" />
+    <edge source="YLR132C" target="YKR034W" />
+    <edge source="YLR385C" target="YGL244W" />
+    <edge source="YLR385C" target="YKL103C" />
+    <edge source="YHL006C" target="YLR376C" />
+    <edge source="YLR376C" target="YMR168C" />
+    <edge source="YLR376C" target="YIL132C" />
+    <edge source="YPR159CA" target="YPL094C" />
+    <edge source="YPR159CA" target="YIR033W" />
+    <edge source="YNL111C" target="YNL111C" />
+    <edge source="YNL111C" target="YIR033W" />
+    <edge source="YNL111C" target="YCR068W" />
+    <edge source="YLR011W" target="YLR011W" />
+    <edge source="YDR051C" target="YDR051C" />
+    <edge source="YHL009C" target="YMR314W" />
+    <edge source="YOR379C" target="YJL103C" />
+    <edge source="YGR142W" target="YDR448W" />
+    <edge source="YGR142W" target="YCR073C" />
+    <edge source="YGR142W" target="YJR127C" />
+    <edge source="YGR142W" target="YBL091C" />
+    <edge source="YNL263C" target="YPR028W" />
+    <edge source="YNL263C" target="YIR033W" />
+    <edge source="YKR048C" target="YDL133CA" />
+    <edge source="YKR048C" target="YNL078W" />
+    <edge source="YKR048C" target="YDL090C" />
+    <edge source="YKR048C" target="TORF21" />
+    <edge source="YKR048C" target="YDL184C" />
+    <edge source="YKR048C" target="YOR032C" />
+    <edge source="YKR048C" target="YMR139W" />
+    <edge source="YKR048C" target="YKR048C" />
+    <edge source="YKR048C" target="YGL240W" />
+    <edge source="YDR177W" target="YPR093C" />
+    <edge source="YPR093C" target="YNL135C" />
+    <edge source="YPR093C" target="YDR059C" />
+    <edge source="YBL001C" target="YBL001C" />
+    <edge source="YHR111W" target="YHR111W" />
+    <edge source="YHR111W" target="YIL008W" />
+    <edge source="YHR111W" target="YPL070W" />
+    <edge source="YDR488C" target="YDR424C" />
+    <edge source="YDR488C" target="YPL174C" />
+    <edge source="YNL334C" target="YMR096W" />
+    <edge source="YNL334C" target="YMR095C" />
+    <edge source="YNL334C" target="YNL333W" />
+    <edge source="YNL334C" target="YFL059W" />
+    <edge source="YMR096W" target="YFL060C" />
+    <edge source="YMR096W" target="YMR096W" />
+    <edge source="YMR096W" target="YFL059W" />
+    <edge source="YMR096W" target="YNL333W" />
+    <edge source="YMR096W" target="YMR095C" />
+    <edge source="YFL060C" target="YMR095C" />
+    <edge source="YFL060C" target="YNL333W" />
+    <edge source="YFL060C" target="YFL059W" />
+    <edge source="YMR095C" target="YHR134W" />
+    <edge source="YMR095C" target="YNL333W" />
+    <edge source="YMR095C" target="YPL070W" />
+    <edge source="YIL095W" target="YLR206W" />
+    <edge source="YIL095W" target="YER144C" />
+    <edge source="YIL095W" target="YHR161C" />
+    <edge source="YIL095W" target="YGR241C" />
+    <edge source="YLR206W" target="YGL122C" />
+    <edge source="YLR206W" target="YOL111C" />
+    <edge source="YHR074W" target="YHR074W" />
+    <edge source="YDL117W" target="YMR032W" />
+    <edge source="YMR032W" target="YNL152W" />
+    <edge source="YMR032W" target="YLR119W" />
+    <edge source="YHR068W" target="YHR068W" />
+    <edge source="YHR068W" target="YJR047C" />
+    <edge source="YHR068W" target="YEL034W" />
+    <edge source="YHR068W" target="YPL070W" />
+    <edge source="YLL036C" target="YDL209C" />
+    <edge source="YLL036C" target="YDR364C" />
+    <edge source="YLL036C" target="YPR152C" />
+    <edge source="YHR121W" target="YGR178C" />
+    <edge source="YGR178C" target="YDL053C" />
+    <edge source="YGR178C" target="YNR014W" />
+    <edge source="YBR188C" target="YMR124W" />
+    <edge source="YBR188C" target="YLR117C" />
+    <edge source="YBR188C" target="YKR034W" />
+    <edge source="YMR124W" target="YLR031W" />
+    <edge source="YMR124W" target="YAL021C" />
+    <edge source="YMR124W" target="YIL109C" />
+    <edge source="YMR124W" target="YER149C" />
+    <edge source="YHR113W" target="YHR113W" />
+    <edge source="YHR113W" target="YPL201C" />
+    <edge source="YHR113W" target="YNL153C" />
+    <edge source="YHR113W" target="YDR518W" />
+    <edge source="YHR113W" target="YPL129W" />
+    <edge source="YHR113W" target="YNL222W" />
+    <edge source="YHR113W" target="YKL103C" />
+    <edge source="YHR113W" target="YOL082W" />
+    <edge source="YHR113W" target="YFL017WA" />
+    <edge source="YKL074C" target="YBR233W" />
+    <edge source="YBR233W" target="YBR233W" />
+    <edge source="YBR233W" target="YGL122C" />
+    <edge source="YBR233W" target="YNL075W" />
+    <edge source="YBR233W" target="YMR294WA" />
+    <edge source="YBR233W" target="YIL079C" />
+    <edge source="YBR233W" target="YNL288W" />
+    <edge source="YBR233W" target="YDR116C" />
+    <edge source="YOL082W" target="YCL033C" />
+    <edge source="YOL082W" target="YNL316C" />
+    <edge source="YPL031C" target="YGR233C" />
+    <edge source="YPL031C" target="YER059W" />
+    <edge source="YPL031C" target="YIL050W" />
+    <edge source="YPL031C" target="YOL001W" />
+    <edge source="YPL031C" target="YPL219W" />
+    <edge source="YPL031C" target="YLR258W" />
+    <edge source="YIL128W" target="YHR122W" />
+    <edge source="YML055W" target="YIR033W" />
+    <edge source="YML055W" target="YPL094C" />
+    <edge source="YIL153W" target="YNL314W" />
+    <edge source="YIL153W" target="YLL001W" />
+    <edge source="YIL153W" target="YDR259C" />
+    <edge source="YIL153W" target="YNL021W" />
+    <edge source="YIL153W" target="YLR258W" />
+    <edge source="YNL314W" target="YOR304CA" />
+    <edge source="YNL314W" target="YGR203W" />
+    <edge source="YDR320CA" target="YKR083C" />
+    <edge source="YDR320CA" target="YDR016C" />
+    <edge source="YKR083C" target="YKL052C" />
+    <edge source="YKR034W" target="YNL021W" />
+    <edge source="YKR034W" target="YOL054W" />
+    <edge source="YKR034W" target="YKR034W" />
+    <edge source="YKR034W" target="YGR247W" />
+    <edge source="YKR034W" target="YGR195W" />
+    <edge source="YKR034W" target="YFL017WA" />
+    <edge source="YKR034W" target="YDR063W" />
+    <edge source="YKR034W" target="YOL145C" />
+    <edge source="YKR034W" target="YGR047C" />
+    <edge source="YDR121W" target="YJL065C" />
+    <edge source="YDR121W" target="YBR278W" />
+    <edge source="YPR066W" target="YPL003W" />
+    <edge source="YLL010C" target="YOR043W" />
+    <edge source="YLL001W" target="YLL001W" />
+    <edge source="YNL078W" target="YOL070C" />
+    <edge source="YNL078W" target="YMR139W" />
+    <edge source="YNL078W" target="YDR510W" />
+    <edge source="YER018C" target="YMR117C" />
+    <edge source="YER018C" target="YDR448W" />
+    <edge source="YHL004W" target="YBR103W" />
+    <edge source="YHL004W" target="YDR448W" />
+    <edge source="YOR230W" target="YGR180C" />
+    <edge source="YGR239C" target="YMR267W" />
+    <edge source="YGL130W" target="YPL228W" />
+    <edge source="YPL173W" target="YBR103W" />
+    <edge source="YOR167C" target="YOL149W" />
+    <edge source="YOL149W" target="YBR094W" />
+    <edge source="YOL149W" target="YNL118C" />
+    <edge source="YHR160C" target="YIL160C" />
+    <edge source="YKL071W" target="YDR259C" />
+    <edge source="YKL071W" target="YPL157W" />
+    <edge source="YIL079C" target="YGL122C" />
+    <edge source="YIL092W" target="YGL122C" />
+    <edge source="YML043C" target="YNL199C" />
+    <edge source="YJL183W" target="YHL003C" />
+    <edge source="YJL183W" target="YDR245W" />
+    <edge source="YJL183W" target="YHR036W" />
+    <edge source="YJL183W" target="YPL094C" />
+    <edge source="YHL003C" target="YMR298W" />
+    <edge source="YHL003C" target="YPL094C" />
+    <edge source="YHL003C" target="YOR223W" />
+    <edge source="YLR032W" target="YBR186W" />
+    <edge source="YLR293C" target="YDR335W" />
+    <edge source="YPL108W" target="YLR405W" />
+    <edge source="YAL036C" target="YDR152W" />
+    <edge source="YAL036C" target="YDR448W" />
+    <edge source="YDL045C" target="YGR077C" />
+    <edge source="YHR134W" target="YDR510W" />
+    <edge source="YDR476C" target="YHR211W" />
+    <edge source="YMR111C" target="YGL250W" />
+    <edge source="YMR111C" target="YHL039W" />
+    <edge source="YMR111C" target="YMR111C" />
+    <edge source="YMR111C" target="YDL013W" />
+    <edge source="YMR111C" target="YJL025W" />
+    <edge source="YMR111C" target="YJR046W" />
+    <edge source="YMR111C" target="YDR510W" />
+    <edge source="YMR111C" target="YHL018W" />
+    <edge source="YGL250W" target="YOR028C" />
+    <edge source="YGL250W" target="YDR510W" />
+    <edge source="YBL078C" target="YHR171W" />
+    <edge source="YBL078C" target="YNR007C" />
+    <edge source="YBL078C" target="YNL223W" />
+    <edge source="YHR171W" target="YNR007C" />
+    <edge source="YHR171W" target="YER134C" />
+    <edge source="YHR171W" target="YLL042C" />
+    <edge source="YGL053W" target="YML029W" />
+    <edge source="YGL053W" target="YDL164C" />
+    <edge source="YPL070W" target="YBR111C" />
+    <edge source="YPL070W" target="YPL070W" />
+    <edge source="YPL070W" target="YKL151C" />
+    <edge source="YPL070W" target="YGL037C" />
+    <edge source="YPL070W" target="YDR256C" />
+    <edge source="YPL070W" target="YHL018W" />
+    <edge source="YPL070W" target="YER086W" />
+    <edge source="YPL070W" target="YPL088W" />
+    <edge source="YPL070W" target="YLR245C" />
+    <edge source="YPL070W" target="YPR193C" />
+    <edge source="YPL070W" target="YFL059W" />
+    <edge source="YPL088W" target="YPL088W" />
+    <edge source="YPL088W" target="YNL098C" />
+    <edge source="YGR088W" target="YNR052C" />
+    <edge source="YLR245C" target="YIL109C" />
+    <edge source="YLR245C" target="YLR245C" />
+    <edge source="YLR245C" target="YNL288W" />
+    <edge source="YLR245C" target="YBR111C" />
+    <edge source="YLR245C" target="YOL111C" />
+    <edge source="YML106W" target="YML106W" />
+    <edge source="YGL037C" target="YGL037C" />
+    <edge source="YER086W" target="YER086W" />
+    <edge source="YDR256C" target="YMR033W" />
+    <edge source="YDR256C" target="YDR256C" />
+    <edge source="YOR108W" target="YOR108W" />
+    <edge source="YOR108W" target="YNL104C" />
+    <edge source="YKL069W" target="YGR209C" />
+    <edge source="YKL069W" target="YKL069W" />
+    <edge source="YGR209C" target="YDR353W" />
+    <edge source="YLR350W" target="YER019W" />
+    <edge source="YLR350W" target="YDR510W" />
+    <edge source="YPL022W" target="YML095C" />
+    <edge source="YPL022W" target="YAL027W" />
+    <edge source="YPL022W" target="YLR135W" />
+    <edge source="YML095C" target="YGR063C" />
+    <edge source="YFL017WA" target="YOR159C" />
+    <edge source="YOR159C" target="YPR182W" />
+    <edge source="YML008C" target="YML008C" />
+    <edge source="YLR219W" target="YPL004C" />
+    <edge source="YPL004C" target="YIL069C" />
+    <edge source="YPL004C" target="YGR086C" />
+    <edge source="YPL004C" target="YER126C" />
+    <edge source="YPL004C" target="YGR027C" />
+    <edge source="YPL004C" target="YDL031W" />
+    <edge source="YPL004C" target="YPL164C" />
+    <edge source="YPL004C" target="YJL083W" />
+    <edge source="YPL004C" target="YKR066C" />
+    <edge source="YPL004C" target="YIL018W" />
+    <edge source="YPL004C" target="YLR333C" />
+    <edge source="YMR314W" target="YNL199C" />
+    <edge source="YMR314W" target="YJR074W" />
+    <edge source="YMR314W" target="YDR448W" />
+    <edge source="YJR068W" target="YDR229W" />
+    <edge source="YJR068W" target="YNL290W" />
+    <edge source="YJR068W" target="YBR087W" />
+    <edge source="YDR229W" target="YMR047C" />
+    <edge source="YDR229W" target="YBR087W" />
+    <edge source="YJR075W" target="YPL094C" />
+    <edge source="YPL094C" target="YNL219C" />
+    <edge source="YPL094C" target="YCL021WA" />
+    <edge source="YPL094C" target="YGL225W" />
+    <edge source="YPL094C" target="YPL094C" />
+    <edge source="YPL094C" target="YKL063C" />
+    <edge source="YPL094C" target="YHR123W" />
+    <edge source="YPL094C" target="YHR211W" />
+    <edge source="YPL094C" target="YLR268W" />
+    <edge source="YPL094C" target="YJR118C" />
+    <edge source="YPL094C" target="YJL097W" />
+    <edge source="YPL094C" target="YGR130C" />
+    <edge source="YPL094C" target="YOL003C" />
+    <edge source="YPL094C" target="YEL042W" />
+    <edge source="YPL094C" target="YMR298W" />
+    <edge source="YPL094C" target="YDL212W" />
+    <edge source="YPL094C" target="YHL031C" />
+    <edge source="YPL094C" target="YBR162WA" />
+    <edge source="YPL094C" target="YDR431W" />
+    <edge source="YPL094C" target="YPR037C" />
+    <edge source="YPL094C" target="YBL091CA" />
+    <edge source="YNL219C" target="YML029W" />
+    <edge source="YNL219C" target="YIR033W" />
+    <edge source="YOR042W" target="YFR024CA" />
+    <edge source="YDL015C" target="YOR324C" />
+    <edge source="YOR324C" target="YPR153W" />
+    <edge source="YOR138C" target="YIR034C" />
+    <edge source="YMR028W" target="YDL134C" />
+    <edge source="YMR028W" target="YDL188C" />
+    <edge source="YGL225W" target="YPR071W" />
+    <edge source="YGL225W" target="YIR033W" />
+    <edge source="YCR009C" target="YBR108W" />
+    <edge source="YLR328W" target="YGR010W" />
+    <edge source="YLR328W" target="YLR328W" />
+    <edge source="YLR328W" target="YDR510W" />
+    <edge source="YLR328W" target="YML064C" />
+    <edge source="YNL104C" target="YNL104C" />
+    <edge source="YDL125C" target="YHL018W" />
+    <edge source="YHL018W" target="YHL018W" />
+    <edge source="YHL018W" target="YOL054W" />
+    <edge source="YHL018W" target="YNL288W" />
+    <edge source="YGL122C" target="YGL122C" />
+    <edge source="YGL122C" target="YDL084W" />
+    <edge source="YGL122C" target="YOL123W" />
+    <edge source="YIL053W" target="YPL201C" />
+    <edge source="YPL201C" target="YER062C" />
+    <edge source="YIL109C" target="YKL068W" />
+    <edge source="YIL109C" target="YKL103C" />
+    <edge source="YIL109C" target="YPR181C" />
+    <edge source="YIL109C" target="YOL130W" />
+    <edge source="YIL109C" target="YDL195W" />
+    <edge source="YDL208W" target="YDR510W" />
+    <edge source="YDL208W" target="YHR072WA" />
+    <edge source="YFL059W" target="YNL333W" />
+    <edge source="YNL333W" target="YNL333W" />
+    <edge source="YDR502C" target="YLR180W" />
+    <edge source="YDR502C" target="YDR502C" />
+    <edge source="YLR180W" target="YLR180W" />
+    <edge source="YLR157C" target="YKL117W" />
+    <edge source="YKL117W" target="YGR123C" />
+    <edge source="YKL117W" target="YBR221C" />
+    <edge source="YKL117W" target="YER022W" />
+    <edge source="YKL117W" target="YPL240C" />
+    <edge source="YFR024CA" target="YKL068W" />
+    <edge source="YFR024CA" target="YPR171W" />
+    <edge source="YGR286C" target="YMR070W" />
+    <edge source="YMR070W" target="YGR263C" />
+    <edge source="YMR070W" target="YDR107C" />
+    <edge source="YMR070W" target="YOL109W" />
+    <edge source="YMR070W" target="YJL127WA" />
+    <edge source="YMR070W" target="YGL144C" />
+    <edge source="YMR070W" target="YBR194W" />
+    <edge source="YJR024C" target="YJR024C" />
+    <edge source="YOL133W" target="YJL047C" />
+    <edge source="YOL133W" target="YDR330W" />
+    <edge source="YOL133W" target="YGR003W" />
+    <edge source="YOL133W" target="YDL132W" />
+    <edge source="YOL133W" target="YGL060W" />
+    <edge source="YER056CA" target="YDR244W" />
+    <edge source="YGR086C" target="YER047C" />
+    <edge source="YGR086C" target="YGR027C" />
+    <edge source="YIR035C" target="YIR035C" />
+    <edge source="YDR032C" target="YDR032C" />
+    <edge source="YDR032C" target="YCR004C" />
+    <edge source="YDR032C" target="YBR052C" />
+    <edge source="YER063W" target="YDL084W" />
+    <edge source="YDL084W" target="YKL214C" />
+    <edge source="YDL084W" target="YDL084W" />
+    <edge source="YDL084W" target="YDR510W" />
+    <edge source="YDR510W" target="YDL013W" />
+    <edge source="YDR510W" target="YDR330W" />
+    <edge source="YDR510W" target="YDR446W" />
+    <edge source="YDR510W" target="YMR233W" />
+    <edge source="YDR510W" target="YNL088W" />
+    <edge source="YDR510W" target="YDR510W" />
+    <edge source="YDR510W" target="YKL032C" />
+    <edge source="YDR510W" target="YML023C" />
+    <edge source="YDR510W" target="YBR249C" />
+    <edge source="YDR510W" target="YKL043W" />
+    <edge source="YDR510W" target="YBR223C" />
+    <edge source="YDR510W" target="YDR171W" />
+    <edge source="YDR510W" target="YJR076C" />
+    <edge source="YDR510W" target="YPL129W" />
+    <edge source="YDR510W" target="YNL042W" />
+    <edge source="YDR510W" target="YMR219W" />
+    <edge source="YDR510W" target="YOR144C" />
+    <edge source="YDR510W" target="YDR174W" />
+    <edge source="YDR510W" target="YDL064W" />
+    <edge source="YDR510W" target="YLR335W" />
+    <edge source="YDR510W" target="YNL021W" />
+    <edge source="YDR510W" target="YER047C" />
+    <edge source="YDR510W" target="YBR088C" />
+    <edge source="YDR510W" target="YDL055C" />
+    <edge source="YDR510W" target="YGL026C" />
+    <edge source="YDR510W" target="YFL045C" />
+    <edge source="YDR510W" target="YKL211C" />
+    <edge source="YDR510W" target="YOR032C" />
+    <edge source="YPL129W" target="YBR289W" />
+    <edge source="YOL111C" target="YDL100C" />
+    <edge source="YLR215C" target="YHR115C" />
+    <edge source="YLR215C" target="YNL116W" />
+    <edge source="YLR215C" target="YER025W" />
+    <edge source="YBR103W" target="YGR262C" />
+    <edge source="YNL021W" target="YNL021W" />
+    <edge source="YGR262C" target="YER174C" />
+    <edge source="YMR146C" target="YDR429C" />
+    <edge source="YDR429C" target="YOR361C" />
+    <edge source="YJL173C" target="YAR007C" />
+    <edge source="YJL173C" target="YNL312W" />
+    <edge source="YKL068W" target="YGR099W" />
+    <edge source="YLR208W" target="YMR017W" />
+    <edge source="YLR208W" target="YDL195W" />
+    <edge source="YPL204W" target="YHR185C" />
+    <edge source="YHR185C" target="YMR016C" />
+    <edge source="YHR185C" target="YIL007C" />
+    <edge source="YGR195W" target="YDR448W" />
+    <edge source="YGR195W" target="YOL021C" />
+    <edge source="YBL101C" target="YNL225C" />
+    <edge source="YNL225C" target="YOR129C" />
+    <edge source="YGR119C" target="YGL172W" />
+    <edge source="YDR453C" target="YML028W" />
+    <edge source="YML028W" target="YML028W" />
+    <edge source="YML028W" target="YOR101W" />
+    <edge source="YLR089C" target="YPR049C" />
+    <edge source="YGR240C" target="YMR205C" />
+    <edge source="YGR240C" target="YGR240C" />
+    <edge source="YDL090C" target="YMR139W" />
+    <edge source="YBR279W" target="YOR123C" />
+    <edge source="YDR001C" target="YLR270W" />
+    <edge source="YOL135C" target="YCR063W" />
+    <edge source="YER009W" target="YER009W" />
+    <edge source="YLR330W" target="YOR299W" />
+    <edge source="YBL047C" target="YGR241C" />
+    <edge source="YBL047C" target="YCR030C" />
+    <edge source="YGR241C" target="YLL017W" />
+    <edge source="YGL071W" target="YGR211W" />
+    <edge source="YGR211W" target="YOR117W" />
+    <edge source="YGR211W" target="YBR122C" />
+    <edge source="YJR056C" target="YJR056C" />
+    <edge source="YER010C" target="YER010C" />
+    <edge source="YDR397C" target="YER159C" />
+    <edge source="YDR397C" target="YDR397C" />
+    <edge source="YEL054C" target="YDR465C" />
+    <edge source="YDR465C" target="YDR418W" />
+    <edge source="YAL044WA" target="YNL218W" />
+    <edge source="YAL044WA" target="YER174C" />
+    <edge source="YDR411C" target="YBR273C" />
+    <edge source="YDR411C" target="YML029W" />
+    <edge source="YJR023C" target="YLR404W" />
+    <edge source="YJR023C" target="YMR316CB" />
+    <edge source="YLR404W" target="YOR301W" />
+    <edge source="YMR139W" target="YMR121C" />
+    <edge source="YLR268W" target="YIR033W" />
+    <edge source="YPR107C" target="YJR093C" />
+    <edge source="YOR210W" target="YDR527W" />
+    <edge source="YDR138W" target="YKL171W" />
+    <edge source="YKL171W" target="YFL047W" />
+    <edge source="YKL171W" target="YGR203W" />
+    <edge source="YDR374C" target="YNR052C" />
+    <edge source="YNR052C" target="YAL021C" />
+    <edge source="YNR052C" target="YNL288W" />
+    <edge source="YLR368W" target="YDR328C" />
+    <edge source="YCL033C" target="YKL103C" />
+    <edge source="YMR067C" target="YDL126C" />
+    <edge source="YDL126C" target="YGL108C" />
+    <edge source="YDL126C" target="YFL044C" />
+    <edge source="YDL126C" target="YNL155W" />
+    <edge source="YJR003C" target="YPR173C" />
+    <edge source="YJR003C" target="YDR448W" />
+    <edge source="YNL288W" target="YOR095C" />
+    <edge source="YOR095C" target="YOR095C" />
+    <edge source="YPR182W" target="YLR275W" />
+    <edge source="YPR173C" target="YDR448W" />
+    <edge source="YBR194W" target="YPR152C" />
+    <edge source="YPR152C" target="YCR063W" />
+    <edge source="YOR094W" target="YBL060W" />
+    <edge source="YPR082C" target="YBR055C" />
+    <edge source="YDL207W" target="YDR192C" />
+    <edge source="YDR036C" target="YLR397C" />
+    <edge source="YLR397C" target="YGR203W" />
+    <edge source="YJL097W" target="YML029W" />
+    <edge source="YJL097W" target="YAR028W" />
+    <edge source="YJL097W" target="YPR071W" />
+    <edge source="YDR086C" target="YPR071W" />
+    <edge source="YPR071W" target="YPR071W" />
+    <edge source="YPR071W" target="YPL176C" />
+    <edge source="YDR214W" target="YMR186W" />
+    <edge source="YDR214W" target="YPL240C" />
+    <edge source="YLR262C" target="YOR370C" />
+    <edge source="YOR308C" target="YNR032CA" />
+    <edge source="YBL025W" target="YMR270C" />
+    <edge source="YAL020C" target="YBL071WA" />
+    <edge source="YJL151C" target="YML097C" />
+    <edge source="YPR049C" target="YKL103C" />
+    <edge source="YPR049C" target="YGR233C" />
+    <edge source="YBR212W" target="YPL184C" />
+    <edge source="YGL048C" target="YGL004C" />
+    <edge source="YGL004C" target="YGR232W" />
+    <edge source="YJR053W" target="YMR055C" />
+    <edge source="YML011C" target="YDR314C" />
+    <edge source="YKL211C" target="YER090W" />
+    <edge source="YER090W" target="YJR070C" />
+    <edge source="YEL056W" target="YPL001W" />
+    <edge source="YEL056W" target="YLL022C" />
+    <edge source="YML053C" target="YJR009C" />
+    <edge source="YDL113C" target="YJL036W" />
+    <edge source="YDL164C" target="YCR007C" />
+    <edge source="YCR020C" target="YCR020C" />
+    <edge source="YHR060W" target="YLR447C" />
+    <edge source="YOL116W" target="YGR067C" />
+    <edge source="YBR150C" target="YOL089C" />
+    <edge source="YGR144W" target="YIL051C" />
+    <edge source="YGR144W" target="YGR144W" />
+    <edge source="YDL189W" target="YLR186W" />
+    <edge source="YGR130C" target="YGR233C" />
+    <edge source="YMR276W" target="YBL057C" />
+    <edge source="YGL051W" target="YGL051W" />
+    <edge source="YGL051W" target="YAR033W" />
+    <edge source="YGL051W" target="YML018C" />
+    <edge source="YMR135C" target="YCL039W" />
+    <edge source="YKR014C" target="YMR258C" />
+    <edge source="YKR014C" target="YOR370C" />
+    <edge source="YMR258C" target="YDR328C" />
+    <edge source="YKL154W" target="YDL100C" />
+    <edge source="YKL154W" target="YDR292C" />
+    <edge source="YDL100C" target="YOL126C" />
+    <edge source="YDL100C" target="YAL055W" />
+    <edge source="YDL100C" target="YNL149C" />
+    <edge source="YDL100C" target="YNR067C" />
+    <edge source="YDL100C" target="YOL018C" />
+    <edge source="YDL100C" target="YDR513W" />
+    <edge source="YDL100C" target="YLR297W" />
+    <edge source="YDL100C" target="YIL162W" />
+    <edge source="YDL100C" target="YER017C" />
+    <edge source="YDL100C" target="YDR304C" />
+    <edge source="YDL100C" target="YHR057C" />
+    <edge source="YDL100C" target="YHR128W" />
+    <edge source="YDL100C" target="YHR180W" />
+    <edge source="YDL100C" target="YML101C" />
+    <edge source="YDL100C" target="YER150W" />
+    <edge source="YDL100C" target="YGR028W" />
+    <edge source="YDL100C" target="YIL065C" />
+    <edge source="YDL100C" target="YPR075C" />
+    <edge source="YDL100C" target="YDR526C" />
+    <edge source="YLR108C" target="YLR108C" />
+    <edge source="YDR448W" target="YPL122C" />
+    <edge source="YDR448W" target="YDR171W" />
+    <edge source="YDR448W" target="YJL011C" />
+    <edge source="YGL090W" target="YOR005C" />
+    <edge source="YAR028W" target="YAR028W" />
+    <edge source="YJL117W" target="YIR033W" />
+    <edge source="YIL105C" target="YIL105C" />
+    <edge source="YOL126C" target="YOR347C" />
+    <edge source="YOL126C" target="YIR033W" />
+    <edge source="YPR118W" target="YPR118W" />
+    <edge source="YAL055W" target="YGR133W" />
+    <edge source="YBR241C" target="YIR033W" />
+    <edge source="YFL017C" target="YFL017C" />
+    <edge source="YPR048W" target="YKR071C" />
+    <edge source="YPL053C" target="YIR033W" />
+    <edge source="YPR158W" target="YNL007C" />
+    <edge source="YKL122C" target="YDL092W" />
+    <edge source="YNR064C" target="YNR064C" />
+    <edge source="YCR068W" target="YIR033W" />
+    <edge source="YIL026C" target="YPR068C" />
+    <edge source="YOL145C" target="YGR233C" />
+    <edge source="YOL145C" target="YKL103C" />
+    <edge source="YIR033W" target="YDR434W" />
+    <edge source="YIR033W" target="YBR029C" />
+    <edge source="YIR033W" target="YNR030W" />
+    <edge source="YBR200W" target="YAL041W" />
+    <edge source="YBR200W" target="YJL157C" />
+    <edge source="YKL189W" target="YOR353C" />
+    <edge source="YKL189W" target="YHR102W" />
+    <edge source="YIL033C" target="YPL203W" />
+    <edge source="YIL033C" target="YIL033C" />
+    <edge source="YGR233C" target="YML014W" />
+    <edge source="YGR233C" target="YJL025W" />
+    <edge source="YFL009W" target="YDR328C" />
+    <edge source="YFL009W" target="YFL009W" />
+    <edge source="YCR073C" target="YLR006C" />
+    <edge source="YPL267W" target="YCR106W" />
+    <edge source="YMR047C" target="YGR099W" />
+    <edge source="YMR047C" target="YGL170C" />
+    <edge source="YMR047C" target="YGR218W" />
+    <edge source="YAL021C" target="YMR181C" />
+    <edge source="YML029W" target="YLL014W" />
+    <edge source="YML029W" target="YLL045C" />
+    <edge source="YML029W" target="YDL072C" />
+    <edge source="YML029W" target="YBR201W" />
+    <edge source="YML029W" target="YOR288C" />
+    <edge source="YML029W" target="YHL033C" />
+    <edge source="YML029W" target="YBL091CA" />
+    <edge source="YML029W" target="YGR038W" />
+    <edge source="YML029W" target="YML029W" />
+    <edge source="YML029W" target="YKL212W" />
+    <edge source="YML029W" target="YJL134W" />
+    <edge source="YGR099W" target="YDR353W" />
+    <edge source="YGR099W" target="YML099C" />
+    <edge source="YGR099W" target="YPL235W" />
+    <edge source="YNL126W" target="YLR212C" />
+    <edge source="YGL156W" target="YKL103C" />
+    <edge source="YKL103C" target="YOR136W" />
+    <edge source="YKL103C" target="YBL037W" />
+    <edge source="YKL103C" target="YMR218C" />
+    <edge source="YKL103C" target="YKL103C" />
+    <edge source="YDR171W" target="YDR171W" />
+    <edge source="YML082W" target="YIL046W" />
+    <edge source="YIL046W" target="YDR328C" />
+    <edge source="YIL046W" target="YJR130C" />
+    <edge source="YER024W" target="YAR035W" />
+    <edge source="YPR193C" target="YPR193C" />
+    <edge source="YOL018C" target="YGL095C" />
+    <edge source="YGL221C" target="YGL221C" />
+    <edge source="YJR058C" target="YBL037W" />
+    <edge source="YBL037W" target="YFR043C" />
+    <edge source="YPL100W" target="YJL100W" />
+    <edge source="YFL038C" target="YOR370C" />
+    <edge source="YOR370C" target="YNL093W" />
+    <edge source="YOR370C" target="YBR264C" />
+    <edge source="YOR370C" target="YPR176C" />
+    <edge source="YJL011C" target="YKL015W" />
+    <edge source="YJL011C" target="YGL096W" />
+    <edge source="YOR054C" target="YKL088W" />
+    <edge source="YOR117W" target="YJL184W" />
+    <edge source="YOR117W" target="YIL007C" />
+    <edge source="YBR234C" target="YDR063W" />
+    <edge source="YBR234C" target="YDL029W" />
+    <edge source="YDR063W" target="YDR124W" />
+    <edge source="YER052C" target="YNL135C" />
+    <edge source="YER052C" target="YER052C" />
+    <edge source="YKL075C" target="YNL091W" />
+    <edge source="YDR353W" target="YHR106W" />
+    <edge source="YLR146C" target="YPR069C" />
+    <edge source="YMR218C" target="YEL048C" />
+    <edge source="YML099C" target="YGR122W" />
+    <edge source="YML099C" target="YJL090C" />
+    <edge source="YML099C" target="YMR104C" />
+    <edge source="YJL025W" target="YBL014C" />
+    <edge source="YDL157C" target="YCL056C" />
+    <edge source="YCL056C" target="YJL185C" />
+    <edge source="YCL056C" target="YIL065C" />
+    <edge source="YCL056C" target="YNL131W" />
+    <edge source="YPL280W" target="YPL280W" />
+    <edge source="YPL280W" target="YMR322C" />
+    <edge source="YFL044C" target="YBL058W" />
+    <edge source="YER015W" target="YER070W" />
+    <edge source="YLR244C" target="YNR029C" />
+    <edge source="YLR244C" target="YBR030W" />
+    <edge source="YJL068C" target="YJL068C" />
+    <edge source="YEL020C" target="YEL020C" />
+    <edge source="YPR149W" target="YMR316CB" />
+    <edge source="YJL121C" target="YJL121C" />
+    <edge source="YKR043C" target="YKR043C" />
+    <edge source="YPR181C" target="YNL049C" />
+    <edge source="YPR181C" target="YHR098C" />
+    <edge source="YBL058W" target="YNL155W" />
+    <edge source="YDR328C" target="YLR267W" />
+    <edge source="YER047C" target="YKL032C" />
+    <edge source="YDR146C" target="YDR335W" />
+    <edge source="YBR195C" target="YLR017W" />
+    <edge source="YLR017W" target="YPR017C" />
+    <edge source="YGR074W" target="YKL183W" />
+    <edge source="YOL061W" target="YER099C" />
+    <edge source="YGR250C" target="YPL178W" />
+    <edge source="YGR250C" target="YIR001C" />
+    <edge source="YLR173W" target="YLR072W" />
+    <edge source="YLR072W" target="YJL090C" />
+    <edge source="YIR036C" target="YIR036C" />
+    <edge source="YNL277W" target="YNL277W" />
+    <edge source="YCR007C" target="YKR066C" />
+    <edge source="YCR007C" target="YDL120W" />
+    <edge source="YLR455W" target="YLR223C" />
+    <edge source="YER025W" target="YJR007W" />
+    <edge source="YGL095C" target="YDR323C" />
+    <edge source="YKL181W" target="YHL011C" />
+    <edge source="YHR025W" target="YHR025W" />
+    <edge source="YPL157W" target="YNR004W" />
+    <edge source="YKL135C" target="YPL259C" />
+    <edge source="YGL213C" target="YML108W" />
+    <edge source="YKL015W" target="YGR057C" />
+    <edge source="YIL065C" target="YAL016W" />
+    <edge source="YLR006C" target="YDL235C" />
+    <edge source="YOR353C" target="YHR102W" />
+    <edge source="YDR330W" target="YKR094C" />
+    <edge source="YNL181W" target="YGR149W" />
+    <edge source="YKL132C" target="YPR022C" />
+    <edge source="YMR048W" target="YNL273W" />
+    <edge source="YOR258W" target="YLR243W" />
+    <edge source="YGR205W" target="YMR315W" />
+    <edge source="YPL209C" target="YBR156C" />
+    <edge source="YML023C" target="YER038C" />
+    <edge source="YGL087C" target="YDR092W" />
+    <edge source="YAL016W" target="YNL127W" />
+    <edge source="YJR076C" target="YHR107C" />
+    <edge source="YJR076C" target="YLL019C" />
+    <edge source="YFR047C" target="YFR047C" />
+    <edge source="YHR090C" target="YFL024C" />
+    <edge source="YKR026C" target="YKR026C" />
+    <edge source="YLL060C" target="YLL060C" />
+    <edge source="YDR174W" target="YDR174W" />
+    <edge source="YML016C" target="YKR072C" />
+    <edge source="YGR238C" target="YHR158C" />
+    <edge source="YHR158C" target="YAL024C" />
+    <edge source="YHR158C" target="YLR452C" />
+    <edge source="YLR432W" target="YML056C" />
+    <edge source="YLR432W" target="YLR432W" />
+    <edge source="YNL171C" target="YCR106W" />
+    <edge source="YCR106W" target="YJL135W" />
+    <edge source="YCR106W" target="YJL006C" />
+    <edge source="YCR106W" target="YGR140W" />
+    <edge source="YCR106W" target="YJL077WB" />
+    <edge source="YCR106W" target="YGR081C" />
+    <edge source="YCR106W" target="YGL247W" />
+    <edge source="YCR106W" target="YBR134W" />
+    <edge source="YCR106W" target="TORF47" />
+    <edge source="YCR106W" target="YPL034W" />
+    <edge source="YCR106W" target="YMR141C" />
+    <edge source="YCR106W" target="YEL072W" />
+    <edge source="YCR106W" target="YMR060C" />
+    <edge source="YCR106W" target="YDR222W" />
+    <edge source="YCR106W" target="YPL243W" />
+    <edge source="YCR106W" target="Q0085" />
+    <edge source="YCR106W" target="TORF1" />
+    <edge source="YCR106W" target="YHR130C" />
+    <edge source="YIR003W" target="YER071C" />
+    <edge source="YLR058C" target="YKR099W" />
+    <edge source="YNL062C" target="YJL125C" />
+    <edge source="YMR227C" target="YLR399C" />
+    <edge source="YMR227C" target="YDL070W" />
+    <edge source="YLR399C" target="YDL070W" />
+    <edge source="YNL251C" target="YPL190C" />
+    <edge source="YAR033W" target="YAR033W" />
+    <edge source="YGL112C" target="YBR198C" />
+    <edge source="YJL031C" target="YPR176C" />
+    <edge source="YGR098C" target="YDR113C" />
+    <edge source="YDR167W" target="YML114C" />
+    <edge source="YNL102W" target="YBL035C" />
+    <edge source="YOR194C" target="YKL058W" />
+    <edge source="YLR267W" target="YDL132W" />
+    <edge source="YDR004W" target="YDR076W" />
+    <edge source="YJL006C" target="YML112W" />
+    <edge source="YGL058W" target="YLR024C" />
+    <edge source="YBR109C" target="YGL106W" />
+    <edge source="YGL106W" target="YGL106W" />
+    <edge source="YPR143W" target="YHR066W" />
+    <edge source="YPR143W" target="YDR312W" />
+    <edge source="YDR205W" target="YNR039C" />
+    <edge source="YFR034C" target="YFR034C" />
+    <edge source="YOR162C" target="YOR162C" />
+    <edge source="YBR101C" target="YAL005C" />
+    <edge source="YDL236W" target="YDL236W" />
+    <edge source="YDL101C" target="YPL269W" />
+    <edge source="YMR087W" target="YMR087W" />
+    <edge source="YMR322C" target="YMR322C" />
+    <edge source="YMR322C" target="YOR391C" />
+    <edge source="YBR006W" target="YBR006W" />
+    <edge source="YNL040W" target="YNL040W" />
+    <edge source="YDR531W" target="YDR531W" />
+    <edge source="YBR019C" target="YBR019C" />
+    <edge source="YBR242W" target="YBR242W" />
+    <edge source="YDR027C" target="YFL029C" />
+    <edge source="YEL032W" target="YHR033W" />
+    <edge source="YBL033C" target="YBL033C" />
+    <edge source="YHR137W" target="YHR137W" />
+    <edge source="YDR242W" target="YDR242W" />
+    <edge source="YER118C" target="YDL073W" />
+    <edge source="YNR027W" target="YEL029C" />
+    <edge source="YCR024C" target="YNL243W" />
+    <edge source="YNL243W" target="YPL266W" />
+    <edge source="YKR097W" target="YKR097W" />
+    <edge source="YMR170C" target="YMR170C" />
+    <edge source="YBR153W" target="YBR153W" />
+    <edge source="YAL012W" target="YAL012W" />
+    <edge source="YML079W" target="YML079W" />
+    <edge source="YDR047W" target="YDR047W" />
+    <edge source="YDR399W" target="YDR399W" />
+    <edge source="YFL028C" target="YER043C" />
+    <edge source="YML025C" target="YFR002W" />
+    <edge source="YPL260W" target="YDL025C" />
+    <edge source="YMR197C" target="YDL056W" />
+    <edge source="YER143W" target="YER143W" />
+    <edge source="YAL054C" target="YDR216W" />
+    <edge source="YDR044W" target="YDR044W" />
+    <edge source="YCR105W" target="YCR105W" />
+    <edge source="YDR441C" target="YML022W" />
+    <edge source="YLR114C" target="YGL237C" />
+    <edge source="YGR017W" target="YFL042C" />
+    <edge source="YJL145W" target="YLR266C" />
+    <edge source="YLR359W" target="YLR359W" />
+    <edge source="YJR084W" target="YDR363WA" />
+    <edge source="YGL141W" target="YKR064W" />
+  </graph>
+</graphml>
